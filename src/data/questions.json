@@ -1,0 +1,4952 @@
+[
+  {
+    "id": 11652,
+    "text": "Apa fungsi utama perangkat CASE tools?",
+    "options": {
+      "A": "Membantu otomatisasi rekayasa",
+      "B": "Memproses transaksi operasional",
+      "C": "Menyajikan laporan eksekutif"
+    },
+    "correct_answer": "A",
+    "correct_text": "Membantu otomatisasi rekayasa"
+  },
+  {
+    "id": 11653,
+    "text": "Apa fungsi utama sistem informasi interorganisasional?",
+    "options": {
+      "A": "Mengelola persediaan gudang",
+      "B": "Menghubungkan proses antarperusahaan",
+      "C": "Memproses penggajian internal"
+    },
+    "correct_answer": "B",
+    "correct_text": "Menghubungkan proses antarperusahaan"
+  },
+  {
+    "id": 11654,
+    "text": "Apa sasaran utama sistem otomasi perkantoran?",
+    "options": {
+      "A": "Perumusan strategi korporasi",
+      "B": "Pengendalian mesin pabrik",
+      "C": "Tugas administratif harian"
+    },
+    "correct_answer": "C",
+    "correct_text": "Tugas administratif harian"
+  },
+  {
+    "id": 11655,
+    "text": "Apa karakteristik utama keluaran sistem SIM?",
+    "options": {
+      "A": "Laporan manajerial berkala",
+      "B": "Rekomendasi keputusan strategis",
+      "C": "Catatan transaksi harian"
+    },
+    "correct_answer": "A",
+    "correct_text": "Laporan manajerial berkala"
+  },
+  {
+    "id": 11656,
+    "text": "Bagaimana penentuan keputusan akhir pada SPK?",
+    "options": {
+      "A": "Diputuskan otomatis komputer",
+      "B": "Ditetapkan oleh teknisi",
+      "C": "Tetap wewenang manajer"
+    },
+    "correct_answer": "C",
+    "correct_text": "Tetap wewenang manajer"
+  },
+  {
+    "id": 11657,
+    "text": "Apa fokus evaluasi pada model Spiral?",
+    "options": {
+      "A": "Urutan tahapan sekuensial",
+      "B": "Pemberian kode instan",
+      "C": "Manajemen mitigasi risiko"
+    },
+    "correct_answer": "C",
+    "correct_text": "Manajemen mitigasi risiko"
+  },
+  {
+    "id": 11658,
+    "text": "Tahap mana paling awal metodologi RUP?",
+    "options": {
+      "A": "Fase konsepsi insepsi",
+      "B": "Tahap akhir transisi",
+      "C": "Fase konstruksi sistem"
+    },
+    "correct_answer": "A",
+    "correct_text": "Fase konsepsi insepsi"
+  },
+  {
+    "id": 11659,
+    "text": "Apa prinsip kerja utama model RAD?",
+    "options": {
+      "A": "Urutan sekuensial kaku",
+      "B": "Daur ulang komponen",
+      "C": "Dokumentasi formal tebal"
+    },
+    "correct_answer": "B",
+    "correct_text": "Daur ulang komponen"
+  },
+  {
+    "id": 11660,
+    "text": "Kapan evaluasi kelayakan sistem informasi dilakukan?",
+    "options": {
+      "A": "Saat penghentian sistem",
+      "B": "Tahap awal inisiasi",
+      "C": "Setelah pengujian integrasi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Tahap awal inisiasi"
+  },
+  {
+    "id": 11661,
+    "text": "Apa pilar utama metode Extreme Programming?",
+    "options": {
+      "A": "Struktur birokrasi kaku",
+      "B": "Siklus rilis tahunan",
+      "C": "Komunikasi dan kesederhanaan"
+    },
+    "correct_answer": "C",
+    "correct_text": "Komunikasi dan kesederhanaan"
+  },
+  {
+    "id": 11662,
+    "text": "Mengapa perancangan tata letak antarmuka diperlukan?",
+    "options": {
+      "A": "Mempermudah interaksi pengguna",
+      "B": "Mengurangi memori basisdata",
+      "C": "Mempercepat proses kompilasi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Mempermudah interaksi pengguna"
+  },
+  {
+    "id": 11663,
+    "text": "Apa tujuan penataan tipografi pada antarmuka?",
+    "options": {
+      "A": "Mengurangi kontras warna",
+      "B": "Meningkatkan keterbacaan teks",
+      "C": "Memadatkan tata letak"
+    },
+    "correct_answer": "B",
+    "correct_text": "Meningkatkan keterbacaan teks"
+  },
+  {
+    "id": 11664,
+    "text": "Rancangan mockup berbasis web ditampilkan menggunakan?",
+    "options": {
+      "A": "Terminal server konsol",
+      "B": "Editor teks kode",
+      "C": "Peramban aplikasi internet"
+    },
+    "correct_answer": "C",
+    "correct_text": "Peramban aplikasi internet"
+  },
+  {
+    "id": 11665,
+    "text": "Mengapa konsistensi elemen antarmuka sangat krusial?",
+    "options": {
+      "A": "Membatasi fitur interaksi",
+      "B": "Mempercepat transfer berkas",
+      "C": "Mencegah kebingungan pengguna"
+    },
+    "correct_answer": "C",
+    "correct_text": "Mencegah kebingungan pengguna"
+  },
+  {
+    "id": 11666,
+    "text": "Apa karakteristik utama model mock-up antarmuka?",
+    "options": {
+      "A": "Skema relasi tabel",
+      "B": "Rancangan visual statis",
+      "C": "Interaktivitas fungsi penuh"
+    },
+    "correct_answer": "B",
+    "correct_text": "Rancangan visual statis"
+  },
+  {
+    "id": 11667,
+    "text": "Bagaimana aturan relasi tugas Finish-to-Start?",
+    "options": {
+      "A": "Dimulai secara bersamaan",
+      "B": "Berakhir secara bersamaan",
+      "C": "Penerus menunggu pendahulu"
+    },
+    "correct_answer": "C",
+    "correct_text": "Penerus menunggu pendahulu"
+  },
+  {
+    "id": 11668,
+    "text": "Berapa nilai slack waktu jalur kritis?",
+    "options": {
+      "A": "Tepat bernilai nol",
+      "B": "Selalu bernilai positif",
+      "C": "Bernilai tidak terhingga"
+    },
+    "correct_answer": "A",
+    "correct_text": "Tepat bernilai nol"
+  },
+  {
+    "id": 11669,
+    "text": "Bagaimana visualisasi jadwal bagan Gantt Chart?",
+    "options": {
+      "A": "Struktur pohon bertingkat",
+      "B": "Diagram batang horizontal",
+      "C": "Diagram lingkaran terbagi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Diagram batang horizontal"
+  },
+  {
+    "id": 11670,
+    "text": "Bagaimana posisi tugas successor dalam penjadwalan?",
+    "options": {
+      "A": "Dikerjakan setelah pendahulu",
+      "B": "Dijalankan paling awal",
+      "C": "Bebas batasan dependensi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Dikerjakan setelah pendahulu"
+  },
+  {
+    "id": 11671,
+    "text": "Bagaimana ketentuan relasi ketergantungan Start-to-Start?",
+    "options": {
+      "A": "Berakhir secara bersamaan",
+      "B": "Dimulai secara bersamaan",
+      "C": "Menunggu pendahulu tuntas"
+    },
+    "correct_answer": "B",
+    "correct_text": "Dimulai secara bersamaan"
+  },
+  {
+    "id": 11672,
+    "text": "Apa fungsi elemen data store DFD?",
+    "options": {
+      "A": "Mentransformasikan masukan transaksi",
+      "B": "Menjembatani entitas eksternal",
+      "C": "Menampung simpanan informasi"
+    },
+    "correct_answer": "C",
+    "correct_text": "Menampung simpanan informasi"
+  },
+  {
+    "id": 11673,
+    "text": "Aliran data DFD dilarang menghubungkan apa?",
+    "options": {
+      "A": "Antar entitas luar",
+      "B": "Proses dengan entitas",
+      "C": "Proses dengan simpanan"
+    },
+    "correct_answer": "A",
+    "correct_text": "Antar entitas luar"
+  },
+  {
+    "id": 11674,
+    "text": "Bagaimana eksistensi entitas lemah pada ERD?",
+    "options": {
+      "A": "Memiliki pengenal mandiri",
+      "B": "Bergantung keberadaan induk",
+      "C": "Berdiri secara otonom"
+    },
+    "correct_answer": "B",
+    "correct_text": "Bergantung keberadaan induk"
+  },
+  {
+    "id": 11675,
+    "text": "Apa fungsi utama atribut kunci primer?",
+    "options": {
+      "A": "Membedakan rekaman unik",
+      "B": "Menghubungkan antar relasi",
+      "C": "Menyimpan nilai turunan"
+    },
+    "correct_answer": "A",
+    "correct_text": "Membedakan rekaman unik"
+  },
+  {
+    "id": 11676,
+    "text": "Kapan terbentuk kardinalitas relasi banyak-ke-banyak?",
+    "options": {
+      "A": "Kedua entitas tunggal",
+      "B": "Satu pihak tunggal",
+      "C": "Kedua entitas jamak"
+    },
+    "correct_answer": "C",
+    "correct_text": "Kedua entitas jamak"
+  },
+  {
+    "id": 11677,
+    "text": "Apa definisi sistem Enterprise Resource Planning?",
+    "options": {
+      "A": "Integrasi proses bisnis",
+      "B": "Pemrosesan transaksi harian",
+      "C": "Otomasi dokumen administratif"
+    },
+    "correct_answer": "A",
+    "correct_text": "Integrasi proses bisnis"
+  },
+  {
+    "id": 11678,
+    "text": "Siapa sasaran pengguna utama sistem SIM?",
+    "options": {
+      "A": "Staf operasional harian",
+      "B": "Manajer tingkat menengah",
+      "C": "Direktur eksekutif puncak"
+    },
+    "correct_answer": "B",
+    "correct_text": "Manajer tingkat menengah"
+  },
+  {
+    "id": 11679,
+    "text": "Apa tujuan utama implementasi sistem KMS?",
+    "options": {
+      "A": "Memproses transaksi harian",
+      "B": "Menyaring informasi eksekutif",
+      "C": "Mengelola pengetahuan organisasi"
+    },
+    "correct_answer": "C",
+    "correct_text": "Mengelola pengetahuan organisasi"
+  },
+  {
+    "id": 11680,
+    "text": "Apa fungsi utama penerapan sistem OAS?",
+    "options": {
+      "A": "Memfasilitasi tugas administratif",
+      "B": "Menganalisis keputusan strategis",
+      "C": "Memproses transaksi pembayaran"
+    },
+    "correct_answer": "A",
+    "correct_text": "Memfasilitasi tugas administratif"
+  },
+  {
+    "id": 11681,
+    "text": "Bagaimana hubungan arsitektur enterprise dan informasi?",
+    "options": {
+      "A": "Dua domain terpisah",
+      "B": "Bagian perancangan integral",
+      "C": "Entitas tanpa keterkaitan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Bagian perancangan integral"
+  },
+  {
+    "id": 11682,
+    "text": "Apa karakteristik utama dari metode Spiral?",
+    "options": {
+      "A": "Tahapan sekuensial linier",
+      "B": "Siklus pengembangan kilat",
+      "C": "Analisis risiko berulang"
+    },
+    "correct_answer": "C",
+    "correct_text": "Analisis risiko berulang"
+  },
+  {
+    "id": 11683,
+    "text": "Apa tujuan pokok tahap analisis sistem?",
+    "options": {
+      "A": "Mengidentifikasi kebutuhan pengguna",
+      "B": "Menuliskan kode program",
+      "C": "Merancang arsitektur basisdata"
+    },
+    "correct_answer": "A",
+    "correct_text": "Mengidentifikasi kebutuhan pengguna"
+  },
+  {
+    "id": 11684,
+    "text": "Apa hasil keluaran tahap desain arsitektur?",
+    "options": {
+      "A": "Dokumen kelayakan awal",
+      "B": "Spesifikasi cetak biru",
+      "C": "Kode sumber aplikasi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Spesifikasi cetak biru"
+  },
+  {
+    "id": 11685,
+    "text": "Apa fokus aktivitas tahap implementasi sistem?",
+    "options": {
+      "A": "Pengumpulan kebutuhan pengguna",
+      "B": "Pemodelan proses bisnis",
+      "C": "Pemrograman dan integrasi"
+    },
+    "correct_answer": "C",
+    "correct_text": "Pemrograman dan integrasi"
+  },
+  {
+    "id": 11686,
+    "text": "Apa fokus utama tahap pemeliharaan sistem?",
+    "options": {
+      "A": "Evaluasi perbaikan berkala",
+      "B": "Pengujian integrasi modul",
+      "C": "Perancangan spesifikasi kebutuhan"
+    },
+    "correct_answer": "A",
+    "correct_text": "Evaluasi perbaikan berkala"
+  },
+  {
+    "id": 11687,
+    "text": "Apa arti konsep konsistensi internal antarmuka?",
+    "options": {
+      "A": "Kesesuaian standar platform",
+      "B": "Keseragaman elemen aplikasi",
+      "C": "Fleksibilitas navigasi bebas"
+    },
+    "correct_answer": "B",
+    "correct_text": "Keseragaman elemen aplikasi"
+  },
+  {
+    "id": 11688,
+    "text": "Apa tujuan penerapan konsistensi eksternal sistem?",
+    "options": {
+      "A": "Keseragaman antar halaman",
+      "B": "Pemisahan struktur logika",
+      "C": "Keseragaman lintas platform"
+    },
+    "correct_answer": "C",
+    "correct_text": "Keseragaman lintas platform"
+  },
+  {
+    "id": 11689,
+    "text": "Apa representasi tingkat dialog rancangan antarmuka?",
+    "options": {
+      "A": "Alur navigasi interaksi",
+      "B": "Format elemen masukan",
+      "C": "Struktur semantik data"
+    },
+    "correct_answer": "A",
+    "correct_text": "Alur navigasi interaksi"
+  },
+  {
+    "id": 11690,
+    "text": "Apa keunggulan pembuatan mockup antarmuka sistem?",
+    "options": {
+      "A": "Menggantikan penulisan kode",
+      "B": "Mempercepat validasi rancangan",
+      "C": "Menghemat ruang simpan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Mempercepat validasi rancangan"
+  },
+  {
+    "id": 11691,
+    "text": "Apa fungsi utama warna antarmuka pengguna?",
+    "options": {
+      "A": "Mengurangi latensi komputasi",
+      "B": "Menyimpan konfigurasi sistem",
+      "C": "Menyampaikan pesan visual"
+    },
+    "correct_answer": "C",
+    "correct_text": "Menyampaikan pesan visual"
+  },
+  {
+    "id": 11692,
+    "text": "Apa bentuk representasi visual bagan Gantt?",
+    "options": {
+      "A": "Balok garis waktu",
+      "B": "Hierarki dekomposisi tugas",
+      "C": "Jejaring simpul aktivitas"
+    },
+    "correct_answer": "A",
+    "correct_text": "Balok garis waktu"
+  },
+  {
+    "id": 11693,
+    "text": "Apa kepanjangan metode evaluasi proyek PERT?",
+    "options": {
+      "A": "Project Enterprise Resource",
+      "B": "Program Evaluation Review",
+      "C": "Process Estimation Real"
+    },
+    "correct_answer": "B",
+    "correct_text": "Program Evaluation Review"
+  },
+  {
+    "id": 11694,
+    "text": "Apa arti simbol simpul diagram jaringan?",
+    "options": {
+      "A": "Alur ketergantungan tugas",
+      "B": "Tenggang kelonggaran waktu",
+      "C": "Titik peristiwa aktivitas"
+    },
+    "correct_answer": "C",
+    "correct_text": "Titik peristiwa aktivitas"
+  },
+  {
+    "id": 11695,
+    "text": "Apa yang dimaksud konsep subkegiatan proyek?",
+    "options": {
+      "A": "Rincian aktivitas utama",
+      "B": "Jalur durasi kritis",
+      "C": "Batas tenggat proyek"
+    },
+    "correct_answer": "A",
+    "correct_text": "Rincian aktivitas utama"
+  },
+  {
+    "id": 11696,
+    "text": "Apa tujuan utama proses alokasi sumberdaya?",
+    "options": {
+      "A": "Menghitung lintasan kritis",
+      "B": "Penugasan anggota tim",
+      "C": "Dekomposisi rincian tugas"
+    },
+    "correct_answer": "B",
+    "correct_text": "Penugasan anggota tim"
+  },
+  {
+    "id": 11697,
+    "text": "Simbol garis sejajar DFD merepresentasikan apa?",
+    "options": {
+      "A": "Entitas sumber eksternal",
+      "B": "Arah perpindahan informasi",
+      "C": "Penyimpanan berkas data"
+    },
+    "correct_answer": "C",
+    "correct_text": "Penyimpanan berkas data"
+  },
+  {
+    "id": 11698,
+    "text": "Apa fungsi simbol proses pemodelan DFD?",
+    "options": {
+      "A": "Mentransformasi aliran data",
+      "B": "Menampung arsip rekaman",
+      "C": "Mengirimkan masukan awal"
+    },
+    "correct_answer": "A",
+    "correct_text": "Mentransformasi aliran data"
+  },
+  {
+    "id": 11699,
+    "text": "Apa karakteristik utama atribut kunci ERD?",
+    "options": {
+      "A": "Boleh bernilai duplikat",
+      "B": "Nilai pembeda unik",
+      "C": "Dihasilkan dari kalkulasi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Nilai pembeda unik"
+  },
+  {
+    "id": 11700,
+    "text": "Apa arti tingkat kardinalitas pemodelan relasi?",
+    "options": {
+      "A": "Batasan keharusan partisipasi",
+      "B": "Jumlah atribut kolom",
+      "C": "Jumlah keterhubungan entitas"
+    },
+    "correct_answer": "C",
+    "correct_text": "Jumlah keterhubungan entitas"
+  },
+  {
+    "id": 11701,
+    "text": "Apa yang dimaksud dengan relasi unari?",
+    "options": {
+      "A": "Keterhubungan dua entitas",
+      "B": "Keterkaitan tiga entitas",
+      "C": "Hubungan entitas tunggal"
+    },
+    "correct_answer": "C",
+    "correct_text": "Hubungan entitas tunggal"
+  },
+  {
+    "id": 11752,
+    "text": "Apa fungsi utama perangkat lunak perkantoran?",
+    "options": {
+      "A": "Pemrosesan transaksi operasional",
+      "B": "Pengambilan keputusan strategis",
+      "C": "Otomatisasi tugas administratif"
+    },
+    "correct_answer": "C",
+    "correct_text": "Otomatisasi tugas administratif"
+  },
+  {
+    "id": 11753,
+    "text": "Apa landasan penalaran sistem pakar digital?",
+    "options": {
+      "A": "Basis pengetahuan ahli",
+      "B": "Log transaksi operasional",
+      "C": "Bagan alir dokumen"
+    },
+    "correct_answer": "A",
+    "correct_text": "Basis pengetahuan ahli"
+  },
+  {
+    "id": 11754,
+    "text": "Apa definisi dasar konsep arsitektur enterprise?",
+    "options": {
+      "A": "Dokumentasi kode sumber",
+      "B": "Cetak biru organisasi",
+      "C": "Spesifikasi perangkat keras"
+    },
+    "correct_answer": "B",
+    "correct_text": "Cetak biru organisasi"
+  },
+  {
+    "id": 11755,
+    "text": "Apa fungsi utama komponen brainware organisasi?",
+    "options": {
+      "A": "Menyimpan data persisten",
+      "B": "Mengoperasikan seluruh sistem",
+      "C": "Mengeksekusi instruksi program"
+    },
+    "correct_answer": "B",
+    "correct_text": "Mengoperasikan seluruh sistem"
+  },
+  {
+    "id": 11756,
+    "text": "Apa peran repositori terstruktur pada CBIS?",
+    "options": {
+      "A": "Menghubungkan simpul jaringan",
+      "B": "Mengeksekusi logika program",
+      "C": "Menyimpan kumpulan data"
+    },
+    "correct_answer": "C",
+    "correct_text": "Menyimpan kumpulan data"
+  },
+  {
+    "id": 11757,
+    "text": "Apa dokumen hasil fase analisis awal?",
+    "options": {
+      "A": "Spesifikasi kebutuhan sistem",
+      "B": "Dokumen rancangan arsitektur",
+      "C": "Laporan pengujian modul"
+    },
+    "correct_answer": "A",
+    "correct_text": "Spesifikasi kebutuhan sistem"
+  },
+  {
+    "id": 11758,
+    "text": "Apa fokus evaluasi pada kelayakan operasional?",
+    "options": {
+      "A": "Ketersediaan perangkat keras",
+      "B": "Kesiapan adopsi pengguna",
+      "C": "Kepatuhan regulasi hukum"
+    },
+    "correct_answer": "B",
+    "correct_text": "Kesiapan adopsi pengguna"
+  },
+  {
+    "id": 11759,
+    "text": "Apa tujuan utama tahap pemeliharaan sistem?",
+    "options": {
+      "A": "Penggalian kebutuhan pengguna",
+      "B": "Perancangan arsitektur modul",
+      "C": "Perbaikan kesalahan operasional"
+    },
+    "correct_answer": "C",
+    "correct_text": "Perbaikan kesalahan operasional"
+  },
+  {
+    "id": 11760,
+    "text": "Apa fokus evaluasi aspek legalitas sistem?",
+    "options": {
+      "A": "Kepatuhan regulasi hukum",
+      "B": "Ketersediaan infrastruktur teknologi",
+      "C": "Estimasi biaya investasi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Kepatuhan regulasi hukum"
+  },
+  {
+    "id": 11761,
+    "text": "Apa konsep dasar model prototyping evolusioner?",
+    "options": {
+      "A": "Pembuangan rancangan awal",
+      "B": "Penyempurnaan sistem bertahap",
+      "C": "Penyelesaian sekuensial kaku"
+    },
+    "correct_answer": "B",
+    "correct_text": "Penyempurnaan sistem bertahap"
+  },
+  {
+    "id": 11762,
+    "text": "Bagaimana alur perpindahan struktur navigasi linier?",
+    "options": {
+      "A": "Bercabang menurut hierarki",
+      "B": "Bebas melalui jejaring",
+      "C": "Sekuensial berurutan teratur"
+    },
+    "correct_answer": "C",
+    "correct_text": "Sekuensial berurutan teratur"
+  },
+  {
+    "id": 11763,
+    "text": "Tingkat dialog rancangan antarmuka merepresentasikan apa?",
+    "options": {
+      "A": "Alur navigasi interaksi",
+      "B": "Struktur elemen masukan",
+      "C": "Model konseptual internal"
+    },
+    "correct_answer": "A",
+    "correct_text": "Alur navigasi interaksi"
+  },
+  {
+    "id": 11764,
+    "text": "Bagaimana pola susunan navigasi model hierarkis?",
+    "options": {
+      "A": "Garis lurus sekuensial",
+      "B": "Bentuk pohon bercabang",
+      "C": "Jejaring tautan bebas"
+    },
+    "correct_answer": "B",
+    "correct_text": "Bentuk pohon bercabang"
+  },
+  {
+    "id": 11765,
+    "text": "Apa prinsip utama konsistensi eksternal antarmuka?",
+    "options": {
+      "A": "Menyeragamkan elemen internal",
+      "B": "Menyerupai objek nyata",
+      "C": "Mengikuti standar platform"
+    },
+    "correct_answer": "C",
+    "correct_text": "Mengikuti standar platform"
+  },
+  {
+    "id": 11766,
+    "text": "Mockup aplikasi perangkat bergerak dioptimalkan untuk?",
+    "options": {
+      "A": "Layar sentuh ponsel",
+      "B": "Layar monitor server",
+      "C": "Koneksi kabel jaringan"
+    },
+    "correct_answer": "A",
+    "correct_text": "Layar sentuh ponsel"
+  },
+  {
+    "id": 11767,
+    "text": "Apa bentuk visualisasi jadwal bagan Gantt?",
+    "options": {
+      "A": "Balok batang horizontal",
+      "B": "Jejaring simpul aktivitas",
+      "C": "Piramida alokasi anggaran"
+    },
+    "correct_answer": "A",
+    "correct_text": "Balok batang horizontal"
+  },
+  {
+    "id": 11768,
+    "text": "Apa fungsi informasi resource penjadwalan proyek?",
+    "options": {
+      "A": "Mengestimasi rentang waktu",
+      "B": "Menetapkan personel pelaksana",
+      "C": "Menandai capaian penting"
+    },
+    "correct_answer": "B",
+    "correct_text": "Menetapkan personel pelaksana"
+  },
+  {
+    "id": 11769,
+    "text": "Apa arti relasi ketergantungan finish start?",
+    "options": {
+      "A": "Dimulai secara bersamaan",
+      "B": "Selesai secara bersamaan",
+      "C": "Selesai sebelum dimulai"
+    },
+    "correct_answer": "C",
+    "correct_text": "Selesai sebelum dimulai"
+  },
+  {
+    "id": 11770,
+    "text": "Berapa durasi waktu penanda tonggak milestone?",
+    "options": {
+      "A": "Sepanjang siklus proyek",
+      "B": "Tepat bernilai nol",
+      "C": "Mengikuti durasi aktivitas"
+    },
+    "correct_answer": "B",
+    "correct_text": "Tepat bernilai nol"
+  },
+  {
+    "id": 11771,
+    "text": "Apa definisi float dalam penjadwalan proyek?",
+    "options": {
+      "A": "Jalur kritis terpanjang",
+      "B": "Total alokasi biaya",
+      "C": "Kelonggaran waktu penundaan"
+    },
+    "correct_answer": "C",
+    "correct_text": "Kelonggaran waktu penundaan"
+  },
+  {
+    "id": 11772,
+    "text": "Apa fungsi simbol proses diagram DFD?",
+    "options": {
+      "A": "Mentransformasikan aliran data",
+      "B": "Menampung penyimpanan data",
+      "C": "Memasok masukan eksternal"
+    },
+    "correct_answer": "A",
+    "correct_text": "Mentransformasikan aliran data"
+  },
+  {
+    "id": 11773,
+    "text": "Apa tujuan dekomposisi bertingkat diagram DFD?",
+    "options": {
+      "A": "Menggabungkan relasi entitas",
+      "B": "Mengamankan basis data",
+      "C": "Merinci fungsi proses"
+    },
+    "correct_answer": "C",
+    "correct_text": "Merinci fungsi proses"
+  },
+  {
+    "id": 11774,
+    "text": "Apa fungsi atribut foreign key basis data?",
+    "options": {
+      "A": "Menghubungkan relasi entitas",
+      "B": "Mengidentifikasi rekaman unik",
+      "C": "Mempercepat indeks pencarian"
+    },
+    "correct_answer": "A",
+    "correct_text": "Menghubungkan relasi entitas"
+  },
+  {
+    "id": 11775,
+    "text": "Apa arti tingkat kardinalitas satu satu?",
+    "options": {
+      "A": "Relasi jamak bercabang",
+      "B": "Hubungan tunggal berpasangan",
+      "C": "Hubungan majemuk bersama"
+    },
+    "correct_answer": "B",
+    "correct_text": "Hubungan tunggal berpasangan"
+  },
+  {
+    "id": 11776,
+    "text": "Apa isi dokumen kamus data sistem?",
+    "options": {
+      "A": "Diagram hierarki proses",
+      "B": "Prosedur pengujian modul",
+      "C": "Deskripsi struktur elemen"
+    },
+    "correct_answer": "C",
+    "correct_text": "Deskripsi struktur elemen"
+  },
+  {
+    "id": 11827,
+    "text": "Apa fokus utama sistem informasi departemen?",
+    "options": {
+      "A": "Kebutuhan divisi spesifik",
+      "B": "Integrasi enterprise korporasi",
+      "C": "Operasional individu personal"
+    },
+    "correct_answer": "A",
+    "correct_text": "Kebutuhan divisi spesifik"
+  },
+  {
+    "id": 11828,
+    "text": "Apa dasar klasifikasi sistem menurut Kroenke?",
+    "options": {
+      "A": "Topologi jaringan komputer",
+      "B": "Lingkup struktur organisasi",
+      "C": "Metode pemrosesan data"
+    },
+    "correct_answer": "B",
+    "correct_text": "Lingkup struktur organisasi"
+  },
+  {
+    "id": 11829,
+    "text": "Representasi apa menggambarkan entitas tingkat tinggi?",
+    "options": {
+      "A": "Physical Data Model",
+      "B": "Logical Data Model",
+      "C": "Conceptual Data Model"
+    },
+    "correct_answer": "C",
+    "correct_text": "Conceptual Data Model"
+  },
+  {
+    "id": 11830,
+    "text": "Apa sasaran pengguna sistem informasi pribadi?",
+    "options": {
+      "A": "Produktivitas individu tunggal",
+      "B": "Rantai pasok global",
+      "C": "Seluruh mitra dagang"
+    },
+    "correct_answer": "A",
+    "correct_text": "Produktivitas individu tunggal"
+  },
+  {
+    "id": 11831,
+    "text": "Mengapa pemodelan arsitektur sistem informasi penting?",
+    "options": {
+      "A": "Mengisolasi subsistem organisasi",
+      "B": "Memudahkan adaptasi perubahan",
+      "C": "Membatasi integrasi aplikasi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Memudahkan adaptasi perubahan"
+  },
+  {
+    "id": 11832,
+    "text": "Apa fokus utama fase elaborasi RUP?",
+    "options": {
+      "A": "Penyusunan visi awal",
+      "B": "Pengkodean modul sistem",
+      "C": "Pemantapan fondasi arsitektur"
+    },
+    "correct_answer": "C",
+    "correct_text": "Pemantapan fondasi arsitektur"
+  },
+  {
+    "id": 11833,
+    "text": "Apa sasaran utama fase cutover RAD?",
+    "options": {
+      "A": "Transisi sistem operasional",
+      "B": "Perancangan purwarupa visual",
+      "C": "Perencanaan kebutuhan sistem"
+    },
+    "correct_answer": "A",
+    "correct_text": "Transisi sistem operasional"
+  },
+  {
+    "id": 11834,
+    "text": "Bagaimana proses rilis model pengembangan inkremental?",
+    "options": {
+      "A": "Serentak pada akhir",
+      "B": "Bertahap per bagian",
+      "C": "Tunggal tanpa iterasi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Bertahap per bagian"
+  },
+  {
+    "id": 11835,
+    "text": "Apa ciri utama metode pengembangan JAD?",
+    "options": {
+      "A": "Wawancara individu terpisah",
+      "B": "Kuesioner tertulis mandiri",
+      "C": "Lokakarya kolaborasi intensif"
+    },
+    "correct_answer": "C",
+    "correct_text": "Lokakarya kolaborasi intensif"
+  },
+  {
+    "id": 11836,
+    "text": "Siklus SDLC Raymond McLeod diakhiri fase?",
+    "options": {
+      "A": "Penggunaan sistem operasional",
+      "B": "Perancangan arsitektur logis",
+      "C": "Analisis kebutuhan pengguna"
+    },
+    "correct_answer": "A",
+    "correct_text": "Penggunaan sistem operasional"
+  },
+  {
+    "id": 11837,
+    "text": "Apa fokus utama lapisan leksikal antarmuka?",
+    "options": {
+      "A": "Urutan tata interaksi",
+      "B": "Elemen fisik input-output",
+      "C": "Makna fungsional perintah"
+    },
+    "correct_answer": "B",
+    "correct_text": "Elemen fisik input-output"
+  },
+  {
+    "id": 11838,
+    "text": "Umpan balik pengguna terhadap rancangan mockup berguna?",
+    "options": {
+      "A": "Menentukan kapasitas memori",
+      "B": "Menyusun skema basisdata",
+      "C": "Menyempurnakan alur antarmuka"
+    },
+    "correct_answer": "C",
+    "correct_text": "Menyempurnakan alur antarmuka"
+  },
+  {
+    "id": 11839,
+    "text": "Kapan warna cerah digunakan pada antarmuka?",
+    "options": {
+      "A": "Pemberian penegas pesan",
+      "B": "Latar dokumen teks",
+      "C": "Area bidang netral"
+    },
+    "correct_answer": "A",
+    "correct_text": "Pemberian penegas pesan"
+  },
+  {
+    "id": 11840,
+    "text": "Apa fungsi prinsip keterhubungan visual antarmuka?",
+    "options": {
+      "A": "Menyembunyikan navigasi sistem",
+      "B": "Mengelompokkan elemen berelasi",
+      "C": "Mengisolasi komponen antarmuka"
+    },
+    "correct_answer": "B",
+    "correct_text": "Mengelompokkan elemen berelasi"
+  },
+  {
+    "id": 11841,
+    "text": "Mengapa desainer perlu mempertimbangkan buta warna?",
+    "options": {
+      "A": "Meningkatkan kecepatan render",
+      "B": "Memperkecil ukuran berkas",
+      "C": "Menjamin inklusivitas aksesibilitas"
+    },
+    "correct_answer": "C",
+    "correct_text": "Menjamin inklusivitas aksesibilitas"
+  },
+  {
+    "id": 11842,
+    "text": "Bagaimana aturan relasi ketergantungan Finish-to-Finish?",
+    "options": {
+      "A": "Selesai secara bersamaan",
+      "B": "Dimulai secara bersamaan",
+      "C": "Dimulai pasca penyelesaian"
+    },
+    "correct_answer": "A",
+    "correct_text": "Selesai secara bersamaan"
+  },
+  {
+    "id": 11843,
+    "text": "Simbol simpul diagram PERT menggambarkan apa?",
+    "options": {
+      "A": "Biaya anggaran operasional",
+      "B": "Peristiwa kejadian kegiatan",
+      "C": "Struktur tim pengembang"
+    },
+    "correct_answer": "B",
+    "correct_text": "Peristiwa kejadian kegiatan"
+  },
+  {
+    "id": 11844,
+    "text": "Apa tujuan memetakan dependensi tugas proyek?",
+    "options": {
+      "A": "Menghitung kapasitas server",
+      "B": "Memperluas ruang lingkup",
+      "C": "Menetapkan urutan pengerjaan"
+    },
+    "correct_answer": "C",
+    "correct_text": "Menetapkan urutan pengerjaan"
+  },
+  {
+    "id": 11845,
+    "text": "Apa manfaat utama analisis jalur kritis?",
+    "options": {
+      "A": "Mengetahui durasi minimum",
+      "B": "Menghitung anggaran finansial",
+      "C": "Menentukan spesifikasi teknologi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Mengetahui durasi minimum"
+  },
+  {
+    "id": 11846,
+    "text": "Bagaimana aturan relasi ketergantungan Start-to-Finish?",
+    "options": {
+      "A": "Dimulai setelah selesai",
+      "B": "Selesai setelah dimulai",
+      "C": "Dimulai secara bersamaan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Selesai setelah dimulai"
+  },
+  {
+    "id": 11847,
+    "text": "Apa padanan istilah Indonesia untuk DFD?",
+    "options": {
+      "A": "Daftar Akses Dokumen",
+      "B": "Desain Arsitektur Dasar",
+      "C": "Diagram Aliran Data"
+    },
+    "correct_answer": "C",
+    "correct_text": "Diagram Aliran Data"
+  },
+  {
+    "id": 11848,
+    "text": "Apa syarat wajib setiap proses DFD?",
+    "options": {
+      "A": "Hanya memiliki masukan",
+      "B": "Hanya memiliki keluaran",
+      "C": "Memiliki masukan keluaran"
+    },
+    "correct_answer": "C",
+    "correct_text": "Memiliki masukan keluaran"
+  },
+  {
+    "id": 11849,
+    "text": "Apa yang dimaksud dengan relasi biner?",
+    "options": {
+      "A": "Hubungan dua entitas",
+      "B": "Hubungan satu entitas",
+      "C": "Hubungan tiga entitas"
+    },
+    "correct_answer": "A",
+    "correct_text": "Hubungan dua entitas"
+  },
+  {
+    "id": 11850,
+    "text": "Bagaimana karakteristik atribut multivalued dalam ERD?",
+    "options": {
+      "A": "Menyimpan satu data",
+      "B": "Menyimpan banyak data",
+      "C": "Menyimpan data turunan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Menyimpan banyak data"
+  },
+  {
+    "id": 11851,
+    "text": "Apa definisi dari atribut komposit ERD?",
+    "options": {
+      "A": "Tidak dapat dibagi",
+      "B": "Pengidentifikasi unik entitas",
+      "C": "Dapat dipecah subdivisi"
+    },
+    "correct_answer": "C",
+    "correct_text": "Dapat dipecah subdivisi"
+  },
+  {
+    "id": 11852,
+    "text": "Apa fokus utama perangkat Upper CASE?",
+    "options": {
+      "A": "Analisis perencanaan sistem",
+      "B": "Pembangkitan kode program",
+      "C": "Pengujian unit program"
+    },
+    "correct_answer": "A",
+    "correct_text": "Analisis perencanaan sistem"
+  },
+  {
+    "id": 11853,
+    "text": "Informasi apa yang disajikan sistem EIS?",
+    "options": {
+      "A": "Detail transaksi harian",
+      "B": "Ringkasan strategis eksekutif",
+      "C": "Log baris program"
+    },
+    "correct_answer": "B",
+    "correct_text": "Ringkasan strategis eksekutif"
+  },
+  {
+    "id": 11854,
+    "text": "Apa peran komponen prosedur dalam CBIS?",
+    "options": {
+      "A": "Menyimpan berkas digital",
+      "B": "Memproses instruksi program",
+      "C": "Panduan operasional pengguna"
+    },
+    "correct_answer": "C",
+    "correct_text": "Panduan operasional pengguna"
+  },
+  {
+    "id": 11855,
+    "text": "Apa kemampuan pembeda utama sistem DSS?",
+    "options": {
+      "A": "Perekaman transaksi operasional",
+      "B": "Simulasi analitis keputusan",
+      "C": "Penyajian laporan statis"
+    },
+    "correct_answer": "B",
+    "correct_text": "Simulasi analitis keputusan"
+  },
+  {
+    "id": 11856,
+    "text": "Apa fokus utama perangkat Lower CASE?",
+    "options": {
+      "A": "Pembangkitan kode otomatis",
+      "B": "Perencanaan visi bisnis",
+      "C": "Wawancara dengan pengguna"
+    },
+    "correct_answer": "A",
+    "correct_text": "Pembangkitan kode otomatis"
+  },
+  {
+    "id": 11857,
+    "text": "Bagaimana hubungan tahapan dalam model V?",
+    "options": {
+      "A": "Eksekusi linier berurutan",
+      "B": "Iterasi siklus berulang",
+      "C": "Verifikasi bersanding validasi"
+    },
+    "correct_answer": "C",
+    "correct_text": "Verifikasi bersanding validasi"
+  },
+  {
+    "id": 11858,
+    "text": "Apa fokus evaluasi analisis kelayakan jadwal?",
+    "options": {
+      "A": "Ketepatan waktu penyelesaian",
+      "B": "Perhitungan laba rugi",
+      "C": "Kepatuhan undang-undang perdata"
+    },
+    "correct_answer": "A",
+    "correct_text": "Ketepatan waktu penyelesaian"
+  },
+  {
+    "id": 11859,
+    "text": "Apa definisi teknik timeboxing metode RAD?",
+    "options": {
+      "A": "Alokasi anggaran dinamis",
+      "B": "Pembatasan durasi pengembangan",
+      "C": "Perluasan lingkup fitur"
+    },
+    "correct_answer": "B",
+    "correct_text": "Pembatasan durasi pengembangan"
+  },
+  {
+    "id": 11860,
+    "text": "Apa tujuan utama fase Transisi RUP?",
+    "options": {
+      "A": "Perumusan visi awal",
+      "B": "Pembuatan arsitektur dasar",
+      "C": "Penyerahan sistem pengguna"
+    },
+    "correct_answer": "C",
+    "correct_text": "Penyerahan sistem pengguna"
+  },
+  {
+    "id": 11861,
+    "text": "Apa tujuan utama aktivitas refactoring program?",
+    "options": {
+      "A": "Menambah fitur baru",
+      "B": "Memperbaiki struktur internal",
+      "C": "Mengubah perilaku eksternal"
+    },
+    "correct_answer": "B",
+    "correct_text": "Memperbaiki struktur internal"
+  },
+  {
+    "id": 11862,
+    "text": "Bagaimana alur penjelajahan navigasi non-linier?",
+    "options": {
+      "A": "Bebas antar halaman",
+      "B": "Berurutan satu arah",
+      "C": "Bertingkat atas bawah"
+    },
+    "correct_answer": "A",
+    "correct_text": "Bebas antar halaman"
+  },
+  {
+    "id": 11863,
+    "text": "Apa representasi lapisan fisik perancangan antarmuka?",
+    "options": {
+      "A": "Analisis logika bisnis",
+      "B": "Struktur basis data",
+      "C": "Tata visual konkret"
+    },
+    "correct_answer": "C",
+    "correct_text": "Tata visual konkret"
+  },
+  {
+    "id": 11864,
+    "text": "Apa arti konsep learnability sistem informasi?",
+    "options": {
+      "A": "Kecepatan pengerjaan tugas",
+      "B": "Kemudahan pemahaman pengguna",
+      "C": "Kemudahan mengingat kembali"
+    },
+    "correct_answer": "B",
+    "correct_text": "Kemudahan pemahaman pengguna"
+  },
+  {
+    "id": 11865,
+    "text": "Apa tujuan utama ergonomi kognitif antarmuka?",
+    "options": {
+      "A": "Meringankan proses berpikir",
+      "B": "Mempercepat kompilasi program",
+      "C": "Mengoptimalkan penyimpanan server"
+    },
+    "correct_answer": "A",
+    "correct_text": "Meringankan proses berpikir"
+  },
+  {
+    "id": 11866,
+    "text": "Apa karakteristik prototipe fidelitas tinggi?",
+    "options": {
+      "A": "Sketsa konseptual kasar",
+      "B": "Tanpa elemen interaksi",
+      "C": "Menyerupai produk final"
+    },
+    "correct_answer": "C",
+    "correct_text": "Menyerupai produk final"
+  },
+  {
+    "id": 11867,
+    "text": "Diagram batang jadwal horizontal pada proyek disebut?",
+    "options": {
+      "A": "Diagram relasi data",
+      "B": "Bagan Gantt Chart",
+      "C": "Struktur hierarki menu"
+    },
+    "correct_answer": "B",
+    "correct_text": "Bagan Gantt Chart"
+  },
+  {
+    "id": 11868,
+    "text": "Apa makna parameter Early Finish CPM?",
+    "options": {
+      "A": "Waktu tercepat rampung",
+      "B": "Batas penundaan pekerjaan",
+      "C": "Durasi perkiraan normal"
+    },
+    "correct_answer": "A",
+    "correct_text": "Waktu tercepat rampung"
+  },
+  {
+    "id": 11869,
+    "text": "Titik temu alur aktivitas diagram PERT berupa?",
+    "options": {
+      "A": "Penyimpanan berkas log",
+      "B": "Garis batas tabel",
+      "C": "Simpul lingkaran bernomor"
+    },
+    "correct_answer": "C",
+    "correct_text": "Simpul lingkaran bernomor"
+  },
+  {
+    "id": 11870,
+    "text": "Apa definisi waktu pesimis metode PERT?",
+    "options": {
+      "A": "Durasi kondisi terbaik",
+      "B": "Durasi kondisi terburuk",
+      "C": "Durasi paling mungkin"
+    },
+    "correct_answer": "B",
+    "correct_text": "Durasi kondisi terburuk"
+  },
+  {
+    "id": 11871,
+    "text": "Apa tiga batasan utama manajemen proyek?",
+    "options": {
+      "A": "Waktu biaya cakupan",
+      "B": "Kualitas risiko pengadaan",
+      "C": "Perancangan pengkodean pengujian"
+    },
+    "correct_answer": "A",
+    "correct_text": "Waktu biaya cakupan"
+  },
+  {
+    "id": 11872,
+    "text": "Simbol apa menggambarkan aliran data pemodelan terstruktur?",
+    "options": {
+      "A": "Bujur sangkar proses",
+      "B": "Garis ganda simpanan",
+      "C": "Garis berarah panah"
+    },
+    "correct_answer": "C",
+    "correct_text": "Garis berarah panah"
+  },
+  {
+    "id": 11873,
+    "text": "Bagan ERD derajat ternari melibatkan berapa objek?",
+    "options": {
+      "A": "Hanya satu entitas",
+      "B": "Sekaligus tiga entitas",
+      "C": "Tepat dua entitas"
+    },
+    "correct_answer": "B",
+    "correct_text": "Sekaligus tiga entitas"
+  },
+  {
+    "id": 11874,
+    "text": "Apa definisi atribut turunan diagram ERD?",
+    "options": {
+      "A": "Nilai hasil perhitungan",
+      "B": "Gabungan beberapa atribut",
+      "C": "Kunci identitas unik"
+    },
+    "correct_answer": "A",
+    "correct_text": "Nilai hasil perhitungan"
+  },
+  {
+    "id": 11875,
+    "text": "Bagaimana aturan aliran data pada DFD?",
+    "options": {
+      "A": "Langsung antarsesama entitas",
+      "B": "Langsung antarsesama simpanan",
+      "C": "Wajib melibatkan proses"
+    },
+    "correct_answer": "C",
+    "correct_text": "Wajib melibatkan proses"
+  },
+  {
+    "id": 11876,
+    "text": "Relasi antarentitas dalam diagram ERD dihubungkan oleh?",
+    "options": {
+      "A": "Kapasitas simpan memori",
+      "B": "Kecepatan sinyal transmisi",
+      "C": "Atribut kunci primer"
+    },
+    "correct_answer": "C",
+    "correct_text": "Atribut kunci primer"
+  },
+  {
+    "id": 11927,
+    "text": "Apa komponen fisik arsitektur sistem informasi?",
+    "options": {
+      "A": "Perangkat keras komputer",
+      "B": "Perangkat lunak aplikasi",
+      "C": "Prosedur operasional sistem"
+    },
+    "correct_answer": "A",
+    "correct_text": "Perangkat keras komputer"
+  },
+  {
+    "id": 11928,
+    "text": "Apa elemen konseptual arsitektur sistem informasi?",
+    "options": {
+      "A": "Spesifikasi perangkat keras",
+      "B": "Cetak biru terstruktur",
+      "C": "Infrastruktur server fisik"
+    },
+    "correct_answer": "B",
+    "correct_text": "Cetak biru terstruktur"
+  },
+  {
+    "id": 11929,
+    "text": "Apa fungsi utama sistem operasional dasar?",
+    "options": {
+      "A": "Rencana ekspansi bisnis",
+      "B": "Prediksi laba tahunan",
+      "C": "Pencatatan transaksi harian"
+    },
+    "correct_answer": "C",
+    "correct_text": "Pencatatan transaksi harian"
+  },
+  {
+    "id": 11930,
+    "text": "Apa bahan mentah penggerak operasi komputasi?",
+    "options": {
+      "A": "Data dan informasi",
+      "B": "Prosedur operasional baku",
+      "C": "Kebijakan tata kelola"
+    },
+    "correct_answer": "A",
+    "correct_text": "Data dan informasi"
+  },
+  {
+    "id": 11931,
+    "text": "Apa bagian inti sistem pendukung keputusan?",
+    "options": {
+      "A": "Spesifikasi kebutuhan modul",
+      "B": "Model analisis matematis",
+      "C": "Basis data operasional"
+    },
+    "correct_answer": "B",
+    "correct_text": "Model analisis matematis"
+  },
+  {
+    "id": 11932,
+    "text": "Apa tahap awal siklus pengembangan sistem?",
+    "options": {
+      "A": "Pemeliharaan sistem berkala",
+      "B": "Pengujian unit program",
+      "C": "Analisis kebutuhan pengguna"
+    },
+    "correct_answer": "C",
+    "correct_text": "Analisis kebutuhan pengguna"
+  },
+  {
+    "id": 11933,
+    "text": "Apa elemen utama metodologi pengembangan Waterfall?",
+    "options": {
+      "A": "Tahapan berurutan linier",
+      "B": "Siklus iterasi adaptif",
+      "C": "Evolusi bertahap berulang"
+    },
+    "correct_answer": "A",
+    "correct_text": "Tahapan berurutan linier"
+  },
+  {
+    "id": 11934,
+    "text": "Apa komponen inti dalam metode prototyping?",
+    "options": {
+      "A": "Dokumentasi spesifikasi lengkap",
+      "B": "Model percontohan awal",
+      "C": "Pengujian beban sistem"
+    },
+    "correct_answer": "B",
+    "correct_text": "Model percontohan awal"
+  },
+  {
+    "id": 11935,
+    "text": "Apa tahapan pembuka metodologi Unified Process?",
+    "options": {
+      "A": "Fase transisi sistem",
+      "B": "Fase konstruksi program",
+      "C": "Fase konsepsi insepsi"
+    },
+    "correct_answer": "C",
+    "correct_text": "Fase konsepsi insepsi"
+  },
+  {
+    "id": 11936,
+    "text": "Apa elemen penentu keberhasilan metode RAD?",
+    "options": {
+      "A": "Penggunaan komponen ulang",
+      "B": "Dokumentasi perancangan kaku",
+      "C": "Proses hierarkis formal"
+    },
+    "correct_answer": "A",
+    "correct_text": "Penggunaan komponen ulang"
+  },
+  {
+    "id": 11937,
+    "text": "Apa elemen dasar perancangan antarmuka pengguna?",
+    "options": {
+      "A": "Skema basis data",
+      "B": "Tata letak visual",
+      "C": "Diagram alur data"
+    },
+    "correct_answer": "B",
+    "correct_text": "Tata letak visual"
+  },
+  {
+    "id": 11938,
+    "text": "Apa komponen penyusun rangka kawat antarmuka?",
+    "options": {
+      "A": "Palet warna grafis",
+      "B": "Efek animasi interaktif",
+      "C": "Sketsa struktur halaman"
+    },
+    "correct_answer": "C",
+    "correct_text": "Sketsa struktur halaman"
+  },
+  {
+    "id": 11939,
+    "text": "Apa komponen antarmuka penerima masukan pengguna?",
+    "options": {
+      "A": "Bidang isian teks",
+      "B": "Bilah penunjuk status",
+      "C": "Label judul halaman"
+    },
+    "correct_answer": "A",
+    "correct_text": "Bidang isian teks"
+  },
+  {
+    "id": 11940,
+    "text": "Apa elemen pengendali alur perpindahan antarmuka?",
+    "options": {
+      "A": "Gaya tipografi teks",
+      "B": "Struktur hierarki navigasi",
+      "C": "Format resolusi gambar"
+    },
+    "correct_answer": "B",
+    "correct_text": "Struktur hierarki navigasi"
+  },
+  {
+    "id": 11941,
+    "text": "Apa komponen penyampai status operasi sistem?",
+    "options": {
+      "A": "Menu navigasi utama",
+      "B": "Formulir masukan data",
+      "C": "Pesan umpan balik"
+    },
+    "correct_answer": "C",
+    "correct_text": "Pesan umpan balik"
+  },
+  {
+    "id": 11942,
+    "text": "Apa elemen dasar struktur rincian kerja?",
+    "options": {
+      "A": "Dekomposisi hierarki aktivitas",
+      "B": "Estimasi anggaran biaya",
+      "C": "Alokasi sumber daya"
+    },
+    "correct_answer": "A",
+    "correct_text": "Dekomposisi hierarki aktivitas"
+  },
+  {
+    "id": 11943,
+    "text": "Elemen visual utama diagram Gantt adalah?",
+    "options": {
+      "A": "Kurva probabilitas risiko",
+      "B": "Batang durasi waktu",
+      "C": "Tabel hierarki biaya"
+    },
+    "correct_answer": "B",
+    "correct_text": "Batang durasi waktu"
+  },
+  {
+    "id": 11944,
+    "text": "Apa elemen penentu total waktu proyek?",
+    "options": {
+      "A": "Durasi waktu mengambang",
+      "B": "Rangkaian jalur bebas",
+      "C": "Rangkaian jalur kritis"
+    },
+    "correct_answer": "C",
+    "correct_text": "Rangkaian jalur kritis"
+  },
+  {
+    "id": 11945,
+    "text": "Apa komponen pembentuk ketergantungan antar aktivitas?",
+    "options": {
+      "A": "Hubungan tugas pendahulu",
+      "B": "Estimasi anggaran proyek",
+      "C": "Matriks alokasi tugas"
+    },
+    "correct_answer": "A",
+    "correct_text": "Hubungan tugas pendahulu"
+  },
+  {
+    "id": 11946,
+    "text": "Apa elemen utama penjadwalan metode PERT?",
+    "options": {
+      "A": "Analisis kelayakan biaya",
+      "B": "Matriks kompetensi tim",
+      "C": "Estimasi waktu aktivitas"
+    },
+    "correct_answer": "C",
+    "correct_text": "Estimasi waktu aktivitas"
+  },
+  {
+    "id": 11947,
+    "text": "Notasi apa menampung arsip dalam DFD?",
+    "options": {
+      "A": "Terminator entitas luar",
+      "B": "Simpanan data terstruktur",
+      "C": "Garis alir proses"
+    },
+    "correct_answer": "B",
+    "correct_text": "Simpanan data terstruktur"
+  },
+  {
+    "id": 11948,
+    "text": "Apa komponen utama pemodelan data ERD?",
+    "options": {
+      "A": "Proses dan aliran",
+      "B": "Kelas dan metode",
+      "C": "Entitas dan relasi"
+    },
+    "correct_answer": "C",
+    "correct_text": "Entitas dan relasi"
+  },
+  {
+    "id": 11949,
+    "text": "Apa elemen deskriptif karakteristik suatu entitas?",
+    "options": {
+      "A": "Atribut data spesifik",
+      "B": "Garis relasi asosiasi",
+      "C": "Simbol entitas asosiatif"
+    },
+    "correct_answer": "A",
+    "correct_text": "Atribut data spesifik"
+  },
+  {
+    "id": 11950,
+    "text": "Apa muatan utama dalam katalog metadata?",
+    "options": {
+      "A": "Konfigurasi perangkat keras",
+      "B": "Definisi elemen data",
+      "C": "Topologi jaringan komunikasi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Definisi elemen data"
+  },
+  {
+    "id": 11951,
+    "text": "Apa elemen penyusun diagram konteks sistem?",
+    "options": {
+      "A": "Basis data relasional",
+      "B": "Modul subrutin program",
+      "C": "Entitas dan proses"
+    },
+    "correct_answer": "C",
+    "correct_text": "Entitas dan proses"
+  },
+  {
+    "id": 12002,
+    "text": "Apa tugas utama sistem level pelaksana organisasi?",
+    "options": {
+      "A": "Pencatatan transaksi operasional",
+      "B": "Penyusunan keputusan strategis",
+      "C": "Pengendalian kinerja eksekutif"
+    },
+    "correct_answer": "A",
+    "correct_text": "Pencatatan transaksi operasional"
+  },
+  {
+    "id": 12003,
+    "text": "Apa kandungan utama repositori sistem ahli?",
+    "options": {
+      "A": "Model analisis statistik",
+      "B": "Aturan logika kepakaran",
+      "C": "Mesin penggerak inferensi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Aturan logika kepakaran"
+  },
+  {
+    "id": 12004,
+    "text": "Apa komponen penyimpanan metadata perangkat CASE?",
+    "options": {
+      "A": "Generator antarmuka visual",
+      "B": "Modul diagram interaktif",
+      "C": "Repositori data terpusat"
+    },
+    "correct_answer": "C",
+    "correct_text": "Repositori data terpusat"
+  },
+  {
+    "id": 12005,
+    "text": "Apa sajian utama sistem pimpinan puncak?",
+    "options": {
+      "A": "Ringkasan visual strategis",
+      "B": "Formulir input operasional",
+      "C": "Model optimasi matematis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Ringkasan visual strategis"
+  },
+  {
+    "id": 12006,
+    "text": "Fokus logika utama perancangan sistem adalah?",
+    "options": {
+      "A": "Jadwal pemeliharaan server",
+      "B": "Komponen proses data",
+      "C": "Konfigurasi topologi fisik"
+    },
+    "correct_answer": "B",
+    "correct_text": "Komponen proses data"
+  },
+  {
+    "id": 12007,
+    "text": "Apa fase awal metode pengembangan SDLC?",
+    "options": {
+      "A": "Implementasi program aplikasi",
+      "B": "Pengujian fungsional sistem",
+      "C": "Perencanaan sistem informasi"
+    },
+    "correct_answer": "C",
+    "correct_text": "Perencanaan sistem informasi"
+  },
+  {
+    "id": 12008,
+    "text": "Apa luaran utama tahapan analisis sistem?",
+    "options": {
+      "A": "Spesifikasi kebutuhan pengguna",
+      "B": "Kode program aplikasi",
+      "C": "Dokumen rancangan arsitektur"
+    },
+    "correct_answer": "A",
+    "correct_text": "Spesifikasi kebutuhan pengguna"
+  },
+  {
+    "id": 12009,
+    "text": "Apa fokus pembuatan prototipe sekali pakai?",
+    "options": {
+      "A": "Kode program permanen",
+      "B": "Model validasi kebutuhan",
+      "C": "Aplikasi produksi akhir"
+    },
+    "correct_answer": "B",
+    "correct_text": "Model validasi kebutuhan"
+  },
+  {
+    "id": 12010,
+    "text": "Urutan kedua metode Rational Unified Process?",
+    "options": {
+      "A": "Fase konstruksi sistem",
+      "B": "Fase transisi produk",
+      "C": "Fase elaborasi arsitektur"
+    },
+    "correct_answer": "C",
+    "correct_text": "Fase elaborasi arsitektur"
+  },
+  {
+    "id": 12011,
+    "text": "Apa sifat utama pendekatan prototipe evolusioner?",
+    "options": {
+      "A": "Penyempurnaan bertahap sistem",
+      "B": "Pembuangan modul prototipe",
+      "C": "Perancangan tanpa revisi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Penyempurnaan bertahap sistem"
+  },
+  {
+    "id": 12012,
+    "text": "Apa fokus utama perancangan tingkat dialog?",
+    "options": {
+      "A": "Format tata letak",
+      "B": "Struktur navigasi pengguna",
+      "C": "Definisi model konseptual"
+    },
+    "correct_answer": "B",
+    "correct_text": "Struktur navigasi pengguna"
+  },
+  {
+    "id": 12013,
+    "text": "Apa fokus isi lapisan konseptual antarmuka?",
+    "options": {
+      "A": "Model objek bisnis",
+      "B": "Alur navigasi sistem",
+      "C": "Format penyajian visual"
+    },
+    "correct_answer": "A",
+    "correct_text": "Model objek bisnis"
+  },
+  {
+    "id": 12014,
+    "text": "Apa fokus penting perancangan tata letak?",
+    "options": {
+      "A": "Kecepatan eksekusi program",
+      "B": "Skema relasi tabel",
+      "C": "Konsistensi posisi visual"
+    },
+    "correct_answer": "C",
+    "correct_text": "Konsistensi posisi visual"
+  },
+  {
+    "id": 12015,
+    "text": "Apa wujud respon sistem kepada pemakai?",
+    "options": {
+      "A": "Hierarki basis data",
+      "B": "Pesan informasi status",
+      "C": "Dokumentasi kode sumber"
+    },
+    "correct_answer": "B",
+    "correct_text": "Pesan informasi status"
+  },
+  {
+    "id": 12016,
+    "text": "Tujuan utama prinsip komunikasi visual antarmuka?",
+    "options": {
+      "A": "Kerumitan variasi ornamen",
+      "B": "Kepadatan elemen dekorasi",
+      "C": "Kejelasan penyampaian pesan"
+    },
+    "correct_answer": "C",
+    "correct_text": "Kejelasan penyampaian pesan"
+  },
+  {
+    "id": 12017,
+    "text": "Faktor apa menentukan durasi minimal proyek?",
+    "options": {
+      "A": "Rangkaian jalur kritis",
+      "B": "Aktivitas waktu luang",
+      "C": "Alur tugas paralel"
+    },
+    "correct_answer": "A",
+    "correct_text": "Rangkaian jalur kritis"
+  },
+  {
+    "id": 12018,
+    "text": "Apa representasi kegiatan pada diagram jaringan?",
+    "options": {
+      "A": "Simbol gerbang keputusan",
+      "B": "Simbol panah aktivitas",
+      "C": "Tabel relasi entitas"
+    },
+    "correct_answer": "B",
+    "correct_text": "Simbol panah aktivitas"
+  },
+  {
+    "id": 12019,
+    "text": "Penetapan jadwal kegiatan proyek memerlukan parameter apa?",
+    "options": {
+      "A": "Tipe kabel server",
+      "B": "Resolusi layar monitor",
+      "C": "Estimasi durasi pengerjaan"
+    },
+    "correct_answer": "C",
+    "correct_text": "Estimasi durasi pengerjaan"
+  },
+  {
+    "id": 12020,
+    "text": "Syarat utama relasi aktivitas tipe Finish-to-Start?",
+    "options": {
+      "A": "Selesainya tugas pendahulu",
+      "B": "Serentaknya awal pekerjaan",
+      "C": "Bersamaannya akhir pekerjaan"
+    },
+    "correct_answer": "A",
+    "correct_text": "Selesainya tugas pendahulu"
+  },
+  {
+    "id": 12021,
+    "text": "Visualisasi utama kegiatan pada bagan balok?",
+    "options": {
+      "A": "Simbol entitas relasional",
+      "B": "Batang linier waktu",
+      "C": "Lingkaran proses transformasi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Batang linier waktu"
+  },
+  {
+    "id": 12022,
+    "text": "Komponen DFD sebagai batas masukan sistem?",
+    "options": {
+      "A": "Simbol proses logika",
+      "B": "Aliran panah informasi",
+      "C": "Entitas eksternal terminator"
+    },
+    "correct_answer": "C",
+    "correct_text": "Entitas eksternal terminator"
+  },
+  {
+    "id": 12023,
+    "text": "Komponen DFD penampung kumpulan informasi pasif?",
+    "options": {
+      "A": "Simbol proses pengolahan",
+      "B": "Jalur aliran panah",
+      "C": "Repositori data store"
+    },
+    "correct_answer": "C",
+    "correct_text": "Repositori data store"
+  },
+  {
+    "id": 12024,
+    "text": "Apa muatan utama katalog elemen informasi?",
+    "options": {
+      "A": "Struktur komposisi data",
+      "B": "Format tata letak",
+      "C": "Alur relasi kardinalitas"
+    },
+    "correct_answer": "A",
+    "correct_text": "Struktur komposisi data"
+  },
+  {
+    "id": 12025,
+    "text": "Elemen penyambung antar entitas pada ERD?",
+    "options": {
+      "A": "Kumpulan atribut deskriptif",
+      "B": "Garis relasi kardinalitas",
+      "C": "Aliran proses fungsional"
+    },
+    "correct_answer": "B",
+    "correct_text": "Garis relasi kardinalitas"
+  },
+  {
+    "id": 12026,
+    "text": "Elemen DFD pengubah masukan menjadi keluaran?",
+    "options": {
+      "A": "Simbol penyimpanan pasif",
+      "B": "Entitas sumber eksternal",
+      "C": "Simbol proses transformasi"
+    },
+    "correct_answer": "C",
+    "correct_text": "Simbol proses transformasi"
+  },
+  {
+    "id": 12027,
+    "text": "Apa komponen utama perangkat Lower CASE?",
+    "options": {
+      "A": "Penyusunan rencana strategis",
+      "B": "Pembangkit kode program",
+      "C": "Analisis kebutuhan awal"
+    },
+    "correct_answer": "B",
+    "correct_text": "Pembangkit kode program"
+  },
+  {
+    "id": 12028,
+    "text": "Apa komponen inti basis pengetahuan pakar?",
+    "options": {
+      "A": "Aturan inferensi logis",
+      "B": "Format laporan berkas",
+      "C": "Pustaka fungsi matematis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Aturan inferensi logis"
+  },
+  {
+    "id": 12029,
+    "text": "Apa elemen utama arsitektur logis sistem?",
+    "options": {
+      "A": "Topologi perangkat keras",
+      "B": "Infrastruktur jaringan komputer",
+      "C": "Hubungan aliran proses"
+    },
+    "correct_answer": "C",
+    "correct_text": "Hubungan aliran proses"
+  },
+  {
+    "id": 12030,
+    "text": "Apa komponen model analitis sistem DSS?",
+    "options": {
+      "A": "Perekam transaksi operasional",
+      "B": "Kalkulasi simulasi matematis",
+      "C": "Penyimpan cadangan data"
+    },
+    "correct_answer": "B",
+    "correct_text": "Kalkulasi simulasi matematis"
+  },
+  {
+    "id": 12031,
+    "text": "Apa komponen penyimpan sentral perangkat CASE?",
+    "options": {
+      "A": "Repositori data proyek",
+      "B": "Editor diagram grafis",
+      "C": "Generator kode sumber"
+    },
+    "correct_answer": "A",
+    "correct_text": "Repositori data proyek"
+  },
+  {
+    "id": 12032,
+    "text": "Siapa pihak luar pemicu interaksi fungsional?",
+    "options": {
+      "A": "Struktur basis data",
+      "B": "Komponen logika bisnis",
+      "C": "Aktor use case"
+    },
+    "correct_answer": "C",
+    "correct_text": "Aktor use case"
+  },
+  {
+    "id": 12033,
+    "text": "Apa elemen pembentuk struktur diagram kelas?",
+    "options": {
+      "A": "Entitas dan relasi",
+      "B": "Atribut dan operasi",
+      "C": "Kondisi dan percabangan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Atribut dan operasi"
+  },
+  {
+    "id": 12034,
+    "text": "Apa aktivitas utama fase pemeliharaan sistem?",
+    "options": {
+      "A": "Perbaikan celah kesalahan",
+      "B": "Penentuan visi bisnis",
+      "C": "Perancangan skema relasi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Perbaikan celah kesalahan"
+  },
+  {
+    "id": 12035,
+    "text": "Apa elemen akselerator utama model RAD?",
+    "options": {
+      "A": "Dokumentasi spesifikasi formal",
+      "B": "Tahapan verifikasi sekuensial",
+      "C": "Lokakarya pengguna intensif"
+    },
+    "correct_answer": "C",
+    "correct_text": "Lokakarya pengguna intensif"
+  },
+  {
+    "id": 12036,
+    "text": "Apa elemen utama diagram penyebaran sistem?",
+    "options": {
+      "A": "Struktur logika kode",
+      "B": "Simpul perangkat keras",
+      "C": "Daftar variabel memori"
+    },
+    "correct_answer": "B",
+    "correct_text": "Simpul perangkat keras"
+  },
+  {
+    "id": 12037,
+    "text": "Apa elemen visual penerima masukan teks?",
+    "options": {
+      "A": "Bidang isian formulir",
+      "B": "Bilah indikator progres",
+      "C": "Label teks statis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Bidang isian formulir"
+  },
+  {
+    "id": 12038,
+    "text": "Apa fokus elemen antarmuka lapis dialog?",
+    "options": {
+      "A": "Pemilihan skema warna",
+      "B": "Penataan tipografi grafis",
+      "C": "Struktur alur interaksi"
+    },
+    "correct_answer": "C",
+    "correct_text": "Struktur alur interaksi"
+  },
+  {
+    "id": 12039,
+    "text": "Apa karakteristik utama prototipe high fidelity?",
+    "options": {
+      "A": "Rancangan wireframe dasar",
+      "B": "Detail visual presisi",
+      "C": "Kerangka alur sederhana"
+    },
+    "correct_answer": "B",
+    "correct_text": "Detail visual presisi"
+  },
+  {
+    "id": 12040,
+    "text": "Apa elemen penyampai hasil eksekusi transaksi?",
+    "options": {
+      "A": "Pesan konfirmasi sistem",
+      "B": "Formulir isian data",
+      "C": "Bilah navigasi menu"
+    },
+    "correct_answer": "A",
+    "correct_text": "Pesan konfirmasi sistem"
+  },
+  {
+    "id": 12041,
+    "text": "Apa elemen penentu hierarki visual teks?",
+    "options": {
+      "A": "Kecepatan muat halaman",
+      "B": "Format penyimpanan berkas",
+      "C": "Ukuran bobot huruf"
+    },
+    "correct_answer": "C",
+    "correct_text": "Ukuran bobot huruf"
+  },
+  {
+    "id": 12042,
+    "text": "Apa unit terkecil pemecahan hierarki WBS?",
+    "options": {
+      "A": "Fase siklus proyek",
+      "B": "Paket rincian kerja",
+      "C": "Portofolio program strategis"
+    },
+    "correct_answer": "B",
+    "correct_text": "Paket rincian kerja"
+  },
+  {
+    "id": 12043,
+    "text": "Apa makna kelonggaran jadwal aktivitas proyek?",
+    "options": {
+      "A": "Batas akhir penyerahan",
+      "B": "Estimasi anggaran tambahan",
+      "C": "Durasi tunda aman"
+    },
+    "correct_answer": "C",
+    "correct_text": "Durasi tunda aman"
+  },
+  {
+    "id": 12044,
+    "text": "Apa tiga komponen estimasi durasi PERT?",
+    "options": {
+      "A": "Optimis realistis pesimis",
+      "B": "Awal tengah akhir",
+      "C": "Rencana realisasi revisi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Optimis realistis pesimis"
+  },
+  {
+    "id": 12045,
+    "text": "Apa jenis hubungan antartugas paling umum?",
+    "options": {
+      "A": "Mulai bersamaan tuntas",
+      "B": "Selesai memicu mulai",
+      "C": "Selesai tanpa syarat"
+    },
+    "correct_answer": "B",
+    "correct_text": "Selesai memicu mulai"
+  },
+  {
+    "id": 12046,
+    "text": "Berapa durasi penanda tonggak capaian milestone?",
+    "options": {
+      "A": "Tujuh hari kalender",
+      "B": "Tiga puluh hari",
+      "C": "Nol hari kerja"
+    },
+    "correct_answer": "C",
+    "correct_text": "Nol hari kerja"
+  },
+  {
+    "id": 12047,
+    "text": "Apa elemen perantara aliran antarsimpanan data?",
+    "options": {
+      "A": "Komponen proses pengolah",
+      "B": "Entitas pihak eksternal",
+      "C": "Garis alur data"
+    },
+    "correct_answer": "A",
+    "correct_text": "Komponen proses pengolah"
+  },
+  {
+    "id": 12048,
+    "text": "Apa atribut pengidentifikasi unik baris entitas?",
+    "options": {
+      "A": "Kunci tamu relasi",
+      "B": "Kunci primer tabel",
+      "C": "Atribut deskriptif umum"
+    },
+    "correct_answer": "B",
+    "correct_text": "Kunci primer tabel"
+  },
+  {
+    "id": 12049,
+    "text": "Apa kardinalitas pemetaan entitas tunggal majemuk?",
+    "options": {
+      "A": "Relasi satu satu",
+      "B": "Relasi banyak banyak",
+      "C": "Relasi satu banyak"
+    },
+    "correct_answer": "C",
+    "correct_text": "Relasi satu banyak"
+  },
+  {
+    "id": 12050,
+    "text": "Bagaimana notasi grafis elemen pengolah DFD?",
+    "options": {
+      "A": "Gambar lingkaran penuh",
+      "B": "Dua garis sejajar",
+      "C": "Kotak persegi panjang"
+    },
+    "correct_answer": "A",
+    "correct_text": "Gambar lingkaran penuh"
+  },
+  {
+    "id": 12051,
+    "text": "Apa elemen pembentuk relasi antartabel relasional?",
+    "options": {
+      "A": "Atribut komposit turunan",
+      "B": "Nilai default kolom",
+      "C": "Atribut kunci tamu"
+    },
+    "correct_answer": "C",
+    "correct_text": "Atribut kunci tamu"
+  },
+  {
+    "id": 12077,
+    "text": "Apa masukan utama sistem pemrosesan operasional?",
+    "options": {
+      "A": "Dokumen transaksi mentah",
+      "B": "Ringkasan analitis eksekutif",
+      "C": "Model prediksi tren"
+    },
+    "correct_answer": "A",
+    "correct_text": "Dokumen transaksi mentah"
+  },
+  {
+    "id": 12078,
+    "text": "Apa komponen inti arsitektur sistem informasi enterprise?",
+    "options": {
+      "A": "Skrip pengujian unit",
+      "B": "Cetak biru terpadu",
+      "C": "Kode sumber modul"
+    },
+    "correct_answer": "B",
+    "correct_text": "Cetak biru terpadu"
+  },
+  {
+    "id": 12079,
+    "text": "Apa komponen utama pendorong sistem pendukung keputusan?",
+    "options": {
+      "A": "Kumpulan berkas log",
+      "B": "Tabel partisi sementara",
+      "C": "Basis data analitis"
+    },
+    "correct_answer": "C",
+    "correct_text": "Basis data analitis"
+  },
+  {
+    "id": 12080,
+    "text": "Apa komponen penyimpan kepakaran pada sistem cerdas?",
+    "options": {
+      "A": "Basis pengetahuan terstruktur",
+      "B": "Kompiler bahasa pemrograman",
+      "C": "Protokol pengalihan paket"
+    },
+    "correct_answer": "A",
+    "correct_text": "Basis pengetahuan terstruktur"
+  },
+  {
+    "id": 12081,
+    "text": "Apa elemen fisik penyusun infrastruktur teknologi informasi?",
+    "options": {
+      "A": "Struktur data relasional",
+      "B": "Perangkat keras komputer",
+      "C": "Dokumen kamus sistem"
+    },
+    "correct_answer": "B",
+    "correct_text": "Perangkat keras komputer"
+  },
+  {
+    "id": 12082,
+    "text": "Apa luaran utama tahap elisitasi fungsi sistem?",
+    "options": {
+      "A": "Rancangan kode sumber",
+      "B": "Laporan pengujian sistem",
+      "C": "Dokumen spesifikasi kebutuhan"
+    },
+    "correct_answer": "C",
+    "correct_text": "Dokumen spesifikasi kebutuhan"
+  },
+  {
+    "id": 12083,
+    "text": "Apa komponen evaluasi utama kelayakan ekonomi proyek?",
+    "options": {
+      "A": "Analisis biaya manfaat",
+      "B": "Kesiapan teknologi server",
+      "C": "Kepatuhan regulasi hukum"
+    },
+    "correct_answer": "A",
+    "correct_text": "Analisis biaya manfaat"
+  },
+  {
+    "id": 12084,
+    "text": "Apa bagian inti siklus hidup model Waterfall?",
+    "options": {
+      "A": "Iterasi rilis berkala",
+      "B": "Tahapan linier berurutan",
+      "C": "Eksperimen fitur dinamis"
+    },
+    "correct_answer": "B",
+    "correct_text": "Tahapan linier berurutan"
+  },
+  {
+    "id": 12085,
+    "text": "Apa elemen utama perancangan prototipe rekayasa sistem?",
+    "options": {
+      "A": "Dokumentasi kode final",
+      "B": "Arsip cadangan sistem",
+      "C": "Model uji operasional"
+    },
+    "correct_answer": "C",
+    "correct_text": "Model uji operasional"
+  },
+  {
+    "id": 12086,
+    "text": "Apa fokus telaah kelayakan kesiapan infrastruktur?",
+    "options": {
+      "A": "Ketersediaan perangkat teknologi",
+      "B": "Estimasi pengembalian modal",
+      "C": "Kepatuhan regulasi privasi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Ketersediaan perangkat teknologi"
+  },
+  {
+    "id": 12087,
+    "text": "Apa elemen visual penentu hierarki bacaan antarmuka?",
+    "options": {
+      "A": "Pilihan resolusi monitor",
+      "B": "Variasi ukuran tipografi",
+      "C": "Tingkat transparansi panel"
+    },
+    "correct_answer": "B",
+    "correct_text": "Variasi ukuran tipografi"
+  },
+  {
+    "id": 12088,
+    "text": "Apa komponen penyusun kerangka tata letak antarmuka?",
+    "options": {
+      "A": "Struktur sistem grid",
+      "B": "Ikon status interaksi",
+      "C": "Pilihan jenis huruf"
+    },
+    "correct_answer": "A",
+    "correct_text": "Struktur sistem grid"
+  },
+  {
+    "id": 12089,
+    "text": "Apa elemen masukan data pada formulir antarmuka?",
+    "options": {
+      "A": "Bagan diagram batang",
+      "B": "Label judul tampilan",
+      "C": "Kolom isian teks"
+    },
+    "correct_answer": "C",
+    "correct_text": "Kolom isian teks"
+  },
+  {
+    "id": 12090,
+    "text": "Apa komponen pemandu alur perpindahan antarmuka pengguna?",
+    "options": {
+      "A": "Kotak pesan peringatan",
+      "B": "Menu navigasi terstruktur",
+      "C": "Area footer informasi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Menu navigasi terstruktur"
+  },
+  {
+    "id": 12091,
+    "text": "Apa elemen dasar perancangan skema visual antarmuka?",
+    "options": {
+      "A": "Sketsa tata letak",
+      "B": "Format berkas biner",
+      "C": "Palet warna harmonis"
+    },
+    "correct_answer": "C",
+    "correct_text": "Palet warna harmonis"
+  },
+  {
+    "id": 12092,
+    "text": "Apa elemen terbawah hierarki dekomposisi bagan WBS?",
+    "options": {
+      "A": "Paket kerja operasional",
+      "B": "Fase inisiasi program",
+      "C": "Tonggak capaian utama"
+    },
+    "correct_answer": "A",
+    "correct_text": "Paket kerja operasional"
+  },
+  {
+    "id": 12093,
+    "text": "Apa elemen penentu estimasi durasi terpanjang proyek?",
+    "options": {
+      "A": "Alokasi waktu luang",
+      "B": "Rangkaian jalur kritis",
+      "C": "Jalur lintasan alternatif"
+    },
+    "correct_answer": "B",
+    "correct_text": "Rangkaian jalur kritis"
+  },
+  {
+    "id": 12094,
+    "text": "Apa karakteristik durasi elemen milestone dalam penjadwalan?",
+    "options": {
+      "A": "Bernilai satu bulan",
+      "B": "Selalu satu minggu",
+      "C": "Nol hari kerja"
+    },
+    "correct_answer": "C",
+    "correct_text": "Nol hari kerja"
+  },
+  {
+    "id": 12095,
+    "text": "Apa komponen utama pembentuk diagram jaringan aktivitas?",
+    "options": {
+      "A": "Simpul dan panah",
+      "B": "Tabel dan relasi",
+      "C": "Entitas dan atribut"
+    },
+    "correct_answer": "A",
+    "correct_text": "Simpul dan panah"
+  },
+  {
+    "id": 12096,
+    "text": "Apa elemen utama perencanaan alokasi kapasitas proyek?",
+    "options": {
+      "A": "Skema partisi memori",
+      "B": "Kebutuhan tenaga ahli",
+      "C": "Format dokumen perancangan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Kebutuhan tenaga ahli"
+  },
+  {
+    "id": 12097,
+    "text": "Apa elemen penghubung antarentitas pada diagram konseptual?",
+    "options": {
+      "A": "Garis relasi kardinalitas",
+      "B": "Simbol atribut komposit",
+      "C": "Kotak entitas turunan"
+    },
+    "correct_answer": "A",
+    "correct_text": "Garis relasi kardinalitas"
+  },
+  {
+    "id": 12098,
+    "text": "Apa atribut pembeda tunggal setiap baris data?",
+    "options": {
+      "A": "Atribut sekunder relasional",
+      "B": "Kunci primer entitas",
+      "C": "Kunci tamu penghubung"
+    },
+    "correct_answer": "B",
+    "correct_text": "Kunci primer entitas"
+  },
+  {
+    "id": 12099,
+    "text": "Apa elemen penyusun deskripsi dalam kamus data?",
+    "options": {
+      "A": "Format data biner",
+      "B": "Struktur direktori berkas",
+      "C": "Tipe dan panjang"
+    },
+    "correct_answer": "C",
+    "correct_text": "Tipe dan panjang"
+  },
+  {
+    "id": 12100,
+    "text": "Apa komponen sumber atau tujuan aliran DFD?",
+    "options": {
+      "A": "Simpanan data internal",
+      "B": "Aliran data proses",
+      "C": "Entitas luar sistem"
+    },
+    "correct_answer": "C",
+    "correct_text": "Entitas luar sistem"
+  },
+  {
+    "id": 12101,
+    "text": "Apa elemen repositori pasif pada diagram DFD?",
+    "options": {
+      "A": "Simbol entitas eksternal",
+      "B": "Garis panah proses",
+      "C": "Simpanan data terstruktur"
+    },
+    "correct_answer": "C",
+    "correct_text": "Simpanan data terstruktur"
+  },
+  {
+    "id": 12302,
+    "text": "Apa fungsi sistem Group Decision Support?",
+    "options": {
+      "A": "Memfasilitasi konsensus kelompok",
+      "B": "Mencatat transaksi harian",
+      "C": "Menghasilkan laporan periodik"
+    },
+    "correct_answer": "A",
+    "correct_text": "Memfasilitasi konsensus kelompok"
+  },
+  {
+    "id": 12303,
+    "text": "Bagaimana alur eksekusi antrean sistem batch?",
+    "options": {
+      "A": "Mengolah masukan seketika",
+      "B": "Memproses transaksi berkala",
+      "C": "Merespons perintah langsung"
+    },
+    "correct_answer": "B",
+    "correct_text": "Memproses transaksi berkala"
+  },
+  {
+    "id": 12304,
+    "text": "Apa fungsi peranti CASE bagi perancang?",
+    "options": {
+      "A": "Mengeksekusi pengujian manual",
+      "B": "Mengonfigurasi infrastruktur server",
+      "C": "Mengotomatiskan pembuatan model"
+    },
+    "correct_answer": "C",
+    "correct_text": "Mengotomatiskan pembuatan model"
+  },
+  {
+    "id": 12305,
+    "text": "Bagaimana cara kerja operasi drill-down OLAP?",
+    "options": {
+      "A": "Membuka data terperinci",
+      "B": "Meringkas agregasi data",
+      "C": "Memputar orientasi dimensi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Membuka data terperinci"
+  },
+  {
+    "id": 12306,
+    "text": "Apa fungsi makro dalam pemodelan spreadsheet?",
+    "options": {
+      "A": "Memvalidasi sintaks skema",
+      "B": "Mengotomatiskan langkah berulang",
+      "C": "Menyusun partisi basis"
+    },
+    "correct_answer": "B",
+    "correct_text": "Mengotomatiskan langkah berulang"
+  },
+  {
+    "id": 12307,
+    "text": "Apa fungsi prototipe sekali pakai throwaway?",
+    "options": {
+      "A": "Menjadi produk akhir",
+      "B": "Menggantikan pengujian integrasi",
+      "C": "Memperjelas kebutuhan pengguna"
+    },
+    "correct_answer": "C",
+    "correct_text": "Memperjelas kebutuhan pengguna"
+  },
+  {
+    "id": 12308,
+    "text": "Bagaimana cara kerja lapisan presentasi sistem?",
+    "options": {
+      "A": "Menampilkan informasi pengguna",
+      "B": "Menyimpan catatan transaksi",
+      "C": "Mengeksekusi logika bisnis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Menampilkan informasi pengguna"
+  },
+  {
+    "id": 12309,
+    "text": "Apa fungsi arsitektur data bagi korporasi?",
+    "options": {
+      "A": "Merancang alur bisnis",
+      "B": "Mengorganisasi aset informasi",
+      "C": "Mengonfigurasi infrastruktur jaringan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Mengorganisasi aset informasi"
+  },
+  {
+    "id": 12310,
+    "text": "Bagaimana mekanisme kerja pemeliharaan korektif perangkat?",
+    "options": {
+      "A": "Menyesuaikan lingkungan baru",
+      "B": "Meningkatkan performa aplikasi",
+      "C": "Memperbaiki kesalahan sistem"
+    },
+    "correct_answer": "C",
+    "correct_text": "Memperbaiki kesalahan sistem"
+  },
+  {
+    "id": 12311,
+    "text": "Apa fungsi fase konstruksi model RUP?",
+    "options": {
+      "A": "Membangun modul fungsional",
+      "B": "Memvalidasi fondasi arsitektur",
+      "C": "Menyebarkan aplikasi produksi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Membangun modul fungsional"
+  },
+  {
+    "id": 12312,
+    "text": "Bagaimana format tampilan mockup desktop sistem beroperasi?",
+    "options": {
+      "A": "Mengandalkan peramban web",
+      "B": "Menyesuaikan layar komputer",
+      "C": "Mengatur kartu jaringan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Menyesuaikan layar komputer"
+  },
+  {
+    "id": 12313,
+    "text": "Bagaimana mekanisme evaluasi rancangan mockup dilakukan tim?",
+    "options": {
+      "A": "Menghitung kapasitas memori",
+      "B": "Mengompilasi skrip biner",
+      "C": "Mengumpulkan tinjauan pengguna"
+    },
+    "correct_answer": "C",
+    "correct_text": "Mengumpulkan tinjauan pengguna"
+  },
+  {
+    "id": 12314,
+    "text": "Bagaimana elemen formulir isian antarmuka menerima data?",
+    "options": {
+      "A": "Menangkap entri pengguna",
+      "B": "Menghapus berkas cadangan",
+      "C": "Mematikan koneksi terminal"
+    },
+    "correct_answer": "A",
+    "correct_text": "Menangkap entri pengguna"
+  },
+  {
+    "id": 12315,
+    "text": "Bagaimana mekanisme kerja kisi tata letak?",
+    "options": {
+      "A": "Mempercepat transisi tampilan",
+      "B": "Menjaga proporsi elemen",
+      "C": "Mengatur kontras tipografi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Menjaga proporsi elemen"
+  },
+  {
+    "id": 12316,
+    "text": "Apa fungsi pesan penanganan kesalahan deskriptif?",
+    "options": {
+      "A": "Menyembunyikan kode kegagalan",
+      "B": "Menghentikan sesi pengguna",
+      "C": "Memberikan panduan solusi"
+    },
+    "correct_answer": "C",
+    "correct_text": "Memberikan panduan solusi"
+  },
+  {
+    "id": 12317,
+    "text": "Bagaimana struktur visualisasi jadwal pada diagram PERT?",
+    "options": {
+      "A": "Jejaring simpul aktivitas",
+      "B": "Tabel spesifikasi memori",
+      "C": "Formulir isian sistem"
+    },
+    "correct_answer": "A",
+    "correct_text": "Jejaring simpul aktivitas"
+  },
+  {
+    "id": 12318,
+    "text": "Kelonggaran waktu pelaksanaan tugas proyek berfungsi untuk?",
+    "options": {
+      "A": "Mengubah spesifikasi sistem",
+      "B": "Memberikan fleksibilitas jadwal",
+      "C": "Mengurangi jumlah programmer"
+    },
+    "correct_answer": "B",
+    "correct_text": "Memberikan fleksibilitas jadwal"
+  },
+  {
+    "id": 12319,
+    "text": "Bagaimana cara kerja ketergantungan Finish-to-Finish?",
+    "options": {
+      "A": "Menunggu permulaan pendahulu",
+      "B": "Memulai setelah pendahulu",
+      "C": "Menunggu penyelesaian pendahulu"
+    },
+    "correct_answer": "C",
+    "correct_text": "Menunggu penyelesaian pendahulu"
+  },
+  {
+    "id": 12320,
+    "text": "Keterlambatan pengerjaan tugas jalur kritis berakibat langsung?",
+    "options": {
+      "A": "Menggeser penyelesaian proyek",
+      "B": "Mengurangi biaya server",
+      "C": "Mengubah tipe memori"
+    },
+    "correct_answer": "A",
+    "correct_text": "Menggeser penyelesaian proyek"
+  },
+  {
+    "id": 12321,
+    "text": "Apa fungsi waktu lead pada penjadwalan?",
+    "options": {
+      "A": "Menunda tanggal mulai",
+      "B": "Mempercepat awal aktivitas",
+      "C": "Menyediakan cadangan kontinjensi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Mempercepat awal aktivitas"
+  },
+  {
+    "id": 12322,
+    "text": "Bagaimana cara kerja pendefinisian elemen kamus sistem?",
+    "options": {
+      "A": "Menghitung biaya server",
+      "B": "Mengonfigurasi kabel komunikasi",
+      "C": "Mencatat format variabel"
+    },
+    "correct_answer": "C",
+    "correct_text": "Mencatat format variabel"
+  },
+  {
+    "id": 12323,
+    "text": "Kaidah pemodelan DFD melarang aliran menghubungkan langsung?",
+    "options": {
+      "A": "Proses dengan simpanan",
+      "B": "Antar entitas eksternal",
+      "C": "Proses dengan entitas"
+    },
+    "correct_answer": "B",
+    "correct_text": "Antar entitas eksternal"
+  },
+  {
+    "id": 12324,
+    "text": "Bagaimana cara kerja pemetaan kardinalitas 1:N?",
+    "options": {
+      "A": "Menghubungkan rekaman tunggal",
+      "B": "Memerlukan tabel persimpangan",
+      "C": "Menghubungkan banyak rekaman"
+    },
+    "correct_answer": "C",
+    "correct_text": "Menghubungkan banyak rekaman"
+  },
+  {
+    "id": 12325,
+    "text": "Kunci tamu pada tabel relasional berfungsi untuk?",
+    "options": {
+      "A": "Menghubungkan antar entitas",
+      "B": "Mengatur kecepatan prosesor",
+      "C": "Menyimpan konfigurasi server"
+    },
+    "correct_answer": "A",
+    "correct_text": "Menghubungkan antar entitas"
+  },
+  {
+    "id": 12326,
+    "text": "Simpanan data pada DFD disimbolkan oleh?",
+    "options": {
+      "A": "Bentuk oval elips",
+      "B": "Lingkaran proses tertutup",
+      "C": "Dua garis sejajar"
+    },
+    "correct_answer": "C",
+    "correct_text": "Dua garis sejajar"
+  },
+  {
+    "id": 12427,
+    "text": "Dokumen apa merekam aktivitas operasional rutin?",
+    "options": {
+      "A": "Bukti transaksi harian",
+      "B": "Rencana strategis korporat",
+      "C": "Simulasi keputusan bisnis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Bukti transaksi harian"
+  },
+  {
+    "id": 12428,
+    "text": "Dokumen apa memandu perancangan menyeluruh organisasi?",
+    "options": {
+      "A": "Model proses bisnis",
+      "B": "Cetak biru sistem",
+      "C": "Spesifikasi kebutuhan teknis"
+    },
+    "correct_answer": "B",
+    "correct_text": "Cetak biru sistem"
+  },
+  {
+    "id": 12429,
+    "text": "Tampilan visual apa menyajikan kinerja eksekutif?",
+    "options": {
+      "A": "Laporan transaksi harian",
+      "B": "Bagan jadwal pemeliharaan",
+      "C": "Dasbor grafik strategis"
+    },
+    "correct_answer": "C",
+    "correct_text": "Dasbor grafik strategis"
+  },
+  {
+    "id": 12430,
+    "text": "Dokumen apa menyajikan ringkasan kinerja berkala?",
+    "options": {
+      "A": "Laporan rekapitulasi periodik",
+      "B": "Diagram arsitektur jaringan",
+      "C": "Dokumen spesifikasi kebutuhan"
+    },
+    "correct_answer": "A",
+    "correct_text": "Laporan rekapitulasi periodik"
+  },
+  {
+    "id": 12431,
+    "text": "Keluaran apa membantu evaluasi pemilihan skenario?",
+    "options": {
+      "A": "Laporan rekapitulasi transaksi",
+      "B": "Simulasi alternatif keputusan",
+      "C": "Bagan struktur organisasi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Simulasi alternatif keputusan"
+  },
+  {
+    "id": 12432,
+    "text": "Dokumen apa menilai prospek keberlanjutan pengembangan?",
+    "options": {
+      "A": "Buku panduan pemakai",
+      "B": "Kode sumber terkompilasi",
+      "C": "Laporan kelayakan proyek"
+    },
+    "correct_answer": "C",
+    "correct_text": "Laporan kelayakan proyek"
+  },
+  {
+    "id": 12433,
+    "text": "Artefak apa menampilkan wujud fungsional awal?",
+    "options": {
+      "A": "Model purwarupa sistem",
+      "B": "Dokumen kamus data",
+      "C": "Diagram jadwal proyek"
+    },
+    "correct_answer": "A",
+    "correct_text": "Model purwarupa sistem"
+  },
+  {
+    "id": 12434,
+    "text": "Luaran apa wajib disahkan antar tahapan?",
+    "options": {
+      "A": "Prototipe interaktif awal",
+      "B": "Dokumentasi formal tertulis",
+      "C": "Skrip pengujian otomatis"
+    },
+    "correct_answer": "B",
+    "correct_text": "Dokumentasi formal tertulis"
+  },
+  {
+    "id": 12435,
+    "text": "Produk apa dihasilkan pada fase konstruksi?",
+    "options": {
+      "A": "Dokumen analisis kebutuhan",
+      "B": "Desain arsitektur perangkat",
+      "C": "Aplikasi siap operasional"
+    },
+    "correct_answer": "C",
+    "correct_text": "Aplikasi siap operasional"
+  },
+  {
+    "id": 12436,
+    "text": "Dokumen apa merangkum tuntutan fungsional sistem?",
+    "options": {
+      "A": "Spesifikasi kebutuhan pengguna",
+      "B": "Kode sumber modul",
+      "C": "Rencana pengujian aplikasi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Spesifikasi kebutuhan pengguna"
+  },
+  {
+    "id": 12437,
+    "text": "Sketsa visual apa menyusun penataan antarmuka?",
+    "options": {
+      "A": "Skrip basis data",
+      "B": "Gambar kerangka wireframe",
+      "C": "Diagram alir proses"
+    },
+    "correct_answer": "B",
+    "correct_text": "Gambar kerangka wireframe"
+  },
+  {
+    "id": 12438,
+    "text": "Artefak apa memperlihatkan presentasi grafis statis?",
+    "options": {
+      "A": "Kamus data sistem",
+      "B": "Diagram entitas relasi",
+      "C": "Desain visual mockup"
+    },
+    "correct_answer": "C",
+    "correct_text": "Desain visual mockup"
+  },
+  {
+    "id": 12439,
+    "text": "Bagan apa memetakan rute perpindahan antarmuka?",
+    "options": {
+      "A": "Diagram alur layar",
+      "B": "Model relasi entitas",
+      "C": "Dokumen kamus data"
+    },
+    "correct_answer": "A",
+    "correct_text": "Diagram alur layar"
+  },
+  {
+    "id": 12440,
+    "text": "Panduan apa menjaga keselarasan nuansa visual?",
+    "options": {
+      "A": "Bagan tata letak",
+      "B": "Palet warna standar",
+      "C": "Tabel relasi entitas"
+    },
+    "correct_answer": "B",
+    "correct_text": "Palet warna standar"
+  },
+  {
+    "id": 12441,
+    "text": "Dokumen apa mencatat hasil pengujian prototipe?",
+    "options": {
+      "A": "Laporan umpan balik",
+      "B": "Diagram konteks sistem",
+      "C": "Kamus atribut data"
+    },
+    "correct_answer": "A",
+    "correct_text": "Laporan umpan balik"
+  },
+  {
+    "id": 12442,
+    "text": "Bagan apa memetakan linimasa durasi pekerjaan?",
+    "options": {
+      "A": "Diagram alir data",
+      "B": "Diagram batang Gantt",
+      "C": "Daftar kebutuhan sistem"
+    },
+    "correct_answer": "B",
+    "correct_text": "Diagram batang Gantt"
+  },
+  {
+    "id": 12443,
+    "text": "Bagan dekomposisi hierarkis ruang lingkup proyek?",
+    "options": {
+      "A": "Struktur rincian kerja",
+      "B": "Diagram jalur kritis",
+      "C": "Jadwal penugasan tim"
+    },
+    "correct_answer": "A",
+    "correct_text": "Struktur rincian kerja"
+  },
+  {
+    "id": 12444,
+    "text": "Grafik apa menentukan estimasi penyelesaian terpanjang?",
+    "options": {
+      "A": "Struktur rincian kerja",
+      "B": "Tabel estimasi biaya",
+      "C": "Diagram jalur kritis"
+    },
+    "correct_answer": "C",
+    "correct_text": "Diagram jalur kritis"
+  },
+  {
+    "id": 12445,
+    "text": "Daftar apa merangkum relasi prasyarat pekerjaan?",
+    "options": {
+      "A": "Diagram hierarki modul",
+      "B": "Tabel kegiatan pendahulu",
+      "C": "Matriks alokasi biaya"
+    },
+    "correct_answer": "B",
+    "correct_text": "Tabel kegiatan pendahulu"
+  },
+  {
+    "id": 12446,
+    "text": "Artefak apa memuat penanggalan target eksekusi?",
+    "options": {
+      "A": "Rencana anggaran biaya",
+      "B": "Struktur rincian kerja",
+      "C": "Kalender jadwal proyek"
+    },
+    "correct_answer": "C",
+    "correct_text": "Kalender jadwal proyek"
+  },
+  {
+    "id": 12447,
+    "text": "Model apa menggambarkan batas ruang lingkup?",
+    "options": {
+      "A": "Diagram konteks sistem",
+      "B": "Tabel basis data",
+      "C": "Bagan alir logika"
+    },
+    "correct_answer": "A",
+    "correct_text": "Diagram konteks sistem"
+  },
+  {
+    "id": 12448,
+    "text": "Katalog apa mendefinisikan tipe setiap elemen?",
+    "options": {
+      "A": "Diagram relasi entitas",
+      "B": "Dokumen kamus data",
+      "C": "Model transisi status"
+    },
+    "correct_answer": "B",
+    "correct_text": "Dokumen kamus data"
+  },
+  {
+    "id": 12449,
+    "text": "Skema apa memetakan kardinalitas antarkomponen konseptual?",
+    "options": {
+      "A": "Diagram alir proses",
+      "B": "Dokumen kamus data",
+      "C": "Diagram relasi entitas"
+    },
+    "correct_answer": "C",
+    "correct_text": "Diagram relasi entitas"
+  },
+  {
+    "id": 12450,
+    "text": "Artefak apa menguraikan fungsi level puncak?",
+    "options": {
+      "A": "Dokumen spesifikasi arsitektur",
+      "B": "Tabel skema relasional",
+      "C": "Diagram alir nol"
+    },
+    "correct_answer": "C",
+    "correct_text": "Diagram alir nol"
+  },
+  {
+    "id": 12451,
+    "text": "Perintah terstruktur apa mendefinisikan skema penyimpanan?",
+    "options": {
+      "A": "Bagan alur program",
+      "B": "Kamus metadata sistem",
+      "C": "Skrip bahasa DDL"
+    },
+    "correct_answer": "C",
+    "correct_text": "Skrip bahasa DDL"
+  },
+  {
+    "id": 12477,
+    "text": "Dokumen apa memuat rancangan menyeluruh sistem?",
+    "options": {
+      "A": "Cetak biru arsitektur",
+      "B": "Kode sumber aplikasi",
+      "C": "Spesifikasi kebutuhan teknis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Cetak biru arsitektur"
+  },
+  {
+    "id": 12478,
+    "text": "Perangkat CASE perancangan tabel menghasilkan apa?",
+    "options": {
+      "A": "Jadwal kerja proyek",
+      "B": "Skema model data",
+      "C": "Diagram alir proses"
+    },
+    "correct_answer": "B",
+    "correct_text": "Skema model data"
+  },
+  {
+    "id": 12479,
+    "text": "Artefak visual apa memetakan langkah operasional?",
+    "options": {
+      "A": "Skema basis data",
+      "B": "Struktur hierarki modul",
+      "C": "Diagram alir proses"
+    },
+    "correct_answer": "C",
+    "correct_text": "Diagram alir proses"
+  },
+  {
+    "id": 12480,
+    "text": "Model apa memetakan interaksi aktor terhadap sistem?",
+    "options": {
+      "A": "Diagram use case",
+      "B": "Diagram transisi status",
+      "C": "Diagram alir data"
+    },
+    "correct_answer": "A",
+    "correct_text": "Diagram use case"
+  },
+  {
+    "id": 12481,
+    "text": "Penyatuan basis data ERP menghasilkan luaran apa?",
+    "options": {
+      "A": "Dokumen transaksi terisolasi",
+      "B": "Laporan terpadu perusahaan",
+      "C": "Arsip operasional parsial"
+    },
+    "correct_answer": "B",
+    "correct_text": "Laporan terpadu perusahaan"
+  },
+  {
+    "id": 12482,
+    "text": "Metode telaah dokumen operasional mengumpulkan artefak apa?",
+    "options": {
+      "A": "Skrip pengujian modul",
+      "B": "Diagram arsitektur jaringan",
+      "C": "Formulir transaksi bisnis"
+    },
+    "correct_answer": "C",
+    "correct_text": "Formulir transaksi bisnis"
+  },
+  {
+    "id": 12483,
+    "text": "Fase inisiasi pengembangan sistem menghasilkan luaran apa?",
+    "options": {
+      "A": "Dokumen rencana proyek",
+      "B": "Kamus data terpusat",
+      "C": "Skema pengujian program"
+    },
+    "correct_answer": "A",
+    "correct_text": "Dokumen rencana proyek"
+  },
+  {
+    "id": 12484,
+    "text": "Tahap investigasi masalah sistem menghasilkan luaran apa?",
+    "options": {
+      "A": "Laporan hasil pengujian",
+      "B": "Dokumen spesifikasi kebutuhan",
+      "C": "Bagan arsitektur fisik"
+    },
+    "correct_answer": "B",
+    "correct_text": "Dokumen spesifikasi kebutuhan"
+  },
+  {
+    "id": 12485,
+    "text": "Evaluasi prospek keberhasilan proyek menghasilkan luaran apa?",
+    "options": {
+      "A": "Spesifikasi arsitektur aplikasi",
+      "B": "Jadwal pengujian sistem",
+      "C": "Laporan studi kelayakan"
+    },
+    "correct_answer": "C",
+    "correct_text": "Laporan studi kelayakan"
+  },
+  {
+    "id": 12486,
+    "text": "Pendekatan throwaway dalam pengembangan menghasilkan apa?",
+    "options": {
+      "A": "Prototipe sistem sementara",
+      "B": "Aplikasi produksi permanen",
+      "C": "Dokumen arsitektur final"
+    },
+    "correct_answer": "A",
+    "correct_text": "Prototipe sistem sementara"
+  },
+  {
+    "id": 12487,
+    "text": "Visualisasi awal desain antarmuka berupa apa?",
+    "options": {
+      "A": "Skema relasi tabel",
+      "B": "Mockup tampilan layar",
+      "C": "Kamus data sistem"
+    },
+    "correct_answer": "B",
+    "correct_text": "Mockup tampilan layar"
+  },
+  {
+    "id": 12488,
+    "text": "Pengorganisasian elemen visual pada antarmuka menghasilkan apa?",
+    "options": {
+      "A": "Diagram struktur tabel",
+      "B": "Skrip pengujian sistem",
+      "C": "Format tata letak"
+    },
+    "correct_answer": "C",
+    "correct_text": "Format tata letak"
+  },
+  {
+    "id": 12489,
+    "text": "Panduan keseragaman elemen visual aplikasi disebut apa?",
+    "options": {
+      "A": "Pedoman desain konsisten",
+      "B": "Struktur tabel relasional",
+      "C": "Spesifikasi format data"
+    },
+    "correct_answer": "A",
+    "correct_text": "Pedoman desain konsisten"
+  },
+  {
+    "id": 12490,
+    "text": "Titik masuk utama situs web dinamakan apa?",
+    "options": {
+      "A": "Diagram alir proses",
+      "B": "Rancangan halaman beranda",
+      "C": "Kamus data terpadu"
+    },
+    "correct_answer": "B",
+    "correct_text": "Rancangan halaman beranda"
+  },
+  {
+    "id": 12491,
+    "text": "Model simulasi tampilan untuk pengujian pengguna disebut apa?",
+    "options": {
+      "A": "Dokumen kamus data",
+      "B": "Diagram relasi entitas",
+      "C": "Prototipe antarmuka interaktif"
+    },
+    "correct_answer": "C",
+    "correct_text": "Prototipe antarmuka interaktif"
+  },
+  {
+    "id": 12492,
+    "text": "Visualisasi balok horizontal durasi aktivitas adalah apa?",
+    "options": {
+      "A": "Bagan Gantt Chart",
+      "B": "Diagram relasi entitas",
+      "C": "Kamus data logis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Bagan Gantt Chart"
+  },
+  {
+    "id": 12493,
+    "text": "Diagram jaringan berorientasi simpul kegiatan proyek dinamakan?",
+    "options": {
+      "A": "Diagram entitas relasi",
+      "B": "Bagan evaluasi PERT",
+      "C": "Struktur kamus data"
+    },
+    "correct_answer": "B",
+    "correct_text": "Bagan evaluasi PERT"
+  },
+  {
+    "id": 12494,
+    "text": "Analisis durasi pengerjaan terlama proyek menghasilkan apa?",
+    "options": {
+      "A": "Dokumen spesifikasi program",
+      "B": "Bagan balok Gantt",
+      "C": "Tabel jalur kritis"
+    },
+    "correct_answer": "C",
+    "correct_text": "Tabel jalur kritis"
+  },
+  {
+    "id": 12495,
+    "text": "Dokumen pemetaan penugasan tenaga kerja disebut apa?",
+    "options": {
+      "A": "Daftar sumber daya",
+      "B": "Diagram aliran data",
+      "C": "Model logika sistem"
+    },
+    "correct_answer": "A",
+    "correct_text": "Daftar sumber daya"
+  },
+  {
+    "id": 12496,
+    "text": "Artefak penanda keberhasilan capaian fase dinamakan apa?",
+    "options": {
+      "A": "Alokasi anggaran biaya",
+      "B": "Milestone jadwal proyek",
+      "C": "Estimasi durasi tugas"
+    },
+    "correct_answer": "B",
+    "correct_text": "Milestone jadwal proyek"
+  },
+  {
+    "id": 12497,
+    "text": "Bagan apa menetapkan batasan ruang lingkup aplikasi?",
+    "options": {
+      "A": "Model antarmuka grafis",
+      "B": "Tabel alokasi modul",
+      "C": "Diagram konteks sistem"
+    },
+    "correct_answer": "C",
+    "correct_text": "Diagram konteks sistem"
+  },
+  {
+    "id": 12498,
+    "text": "Bagan pemetaan transformasi informasi antar entitas adalah?",
+    "options": {
+      "A": "Data flow diagram",
+      "B": "Entity relationship diagram",
+      "C": "State transition diagram"
+    },
+    "correct_answer": "A",
+    "correct_text": "Data flow diagram"
+  },
+  {
+    "id": 12499,
+    "text": "Dokumen penyimpan definisi struktur atribut informasi adalah?",
+    "options": {
+      "A": "Spesifikasi proses logika",
+      "B": "Kamus data sistem",
+      "C": "Diagram transisi status"
+    },
+    "correct_answer": "B",
+    "correct_text": "Kamus data sistem"
+  },
+  {
+    "id": 12500,
+    "text": "Bagan apa memodelkan struktur penyimpanan konseptual data?",
+    "options": {
+      "A": "Data flow diagram",
+      "B": "State transition diagram",
+      "C": "Entity relationship diagram"
+    },
+    "correct_answer": "C",
+    "correct_text": "Entity relationship diagram"
+  },
+  {
+    "id": 12501,
+    "text": "Penguraian proses utama menjadi subproses menghasilkan apa?",
+    "options": {
+      "A": "Diagram konteks global",
+      "B": "Spesifikasi logika modul",
+      "C": "DFD level rinci"
+    },
+    "correct_answer": "C",
+    "correct_text": "DFD level rinci"
+  },
+  {
+    "id": 12502,
+    "text": "Komponen apa memuat aturan keputusan pakar?",
+    "options": {
+      "A": "Kumpulan kaidah inferensi",
+      "B": "Modul dialog pemakai",
+      "C": "Log riwayat transaksi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Kumpulan kaidah inferensi"
+  },
+  {
+    "id": 12503,
+    "text": "Keluaran digital apa dari sistem OAS?",
+    "options": {
+      "A": "Skema relasi tabel",
+      "B": "Arsip surat elektronik",
+      "C": "Kode sumber aplikasi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Arsip surat elektronik"
+  },
+  {
+    "id": 12504,
+    "text": "Artefak apa luaran proses rekayasa balik?",
+    "options": {
+      "A": "Kode biner terkompilasi",
+      "B": "Skrip pengujian sistem",
+      "C": "Model rancangan arsitektur"
+    },
+    "correct_answer": "C",
+    "correct_text": "Model rancangan arsitektur"
+  },
+  {
+    "id": 12505,
+    "text": "Apa produk konkret dari forward engineering?",
+    "options": {
+      "A": "Kode sumber program",
+      "B": "Diagram proses bisnis",
+      "C": "Laporan studi kelayakan"
+    },
+    "correct_answer": "A",
+    "correct_text": "Kode sumber program"
+  },
+  {
+    "id": 12506,
+    "text": "Apa artefak repositori pusat perangkat CASE?",
+    "options": {
+      "A": "Berkas konfigurasi server",
+      "B": "Kamus metadata terpadu",
+      "C": "Skrip cadangan basisdata"
+    },
+    "correct_answer": "B",
+    "correct_text": "Kamus metadata terpadu"
+  },
+  {
+    "id": 12507,
+    "text": "Apa dokumen luaran analisis kerangka PIECES?",
+    "options": {
+      "A": "Skrip pengujian unit",
+      "B": "Bagan struktur modul",
+      "C": "Laporan evaluasi kelemahan"
+    },
+    "correct_answer": "C",
+    "correct_text": "Laporan evaluasi kelemahan"
+  },
+  {
+    "id": 12508,
+    "text": "Dokumen apa merangkum verifikasi fungsional perangkat?",
+    "options": {
+      "A": "Laporan hasil pengujian",
+      "B": "Spesifikasi kebutuhan pengguna",
+      "C": "Piagam inisiasi proyek"
+    },
+    "correct_answer": "A",
+    "correct_text": "Laporan hasil pengujian"
+  },
+  {
+    "id": 12509,
+    "text": "Dokumen apa memuat cetak biru konstruksi?",
+    "options": {
+      "A": "Kamus data konseptual",
+      "B": "Spesifikasi arsitektur perangkat",
+      "C": "Notula wawancara pengguna"
+    },
+    "correct_answer": "B",
+    "correct_text": "Spesifikasi arsitektur perangkat"
+  },
+  {
+    "id": 12510,
+    "text": "Apa produk akhir pengembangan prototipe evolusioner?",
+    "options": {
+      "A": "Sistem aplikasi operasional",
+      "B": "Purwarupa sekali buang",
+      "C": "Laporan studi kelayakan"
+    },
+    "correct_answer": "A",
+    "correct_text": "Sistem aplikasi operasional"
+  },
+  {
+    "id": 12511,
+    "text": "Artefak apa memetakan alur aktivitas organisasi?",
+    "options": {
+      "A": "Skema fisik basisdata",
+      "B": "Bagan struktur modul",
+      "C": "Diagram proses bisnis"
+    },
+    "correct_answer": "C",
+    "correct_text": "Diagram proses bisnis"
+  },
+  {
+    "id": 12512,
+    "text": "Apa artefak visual urutan interaksi layar?",
+    "options": {
+      "A": "Lembar storyboard antarmuka",
+      "B": "Tabel relasi entitas",
+      "C": "Diagram alir data"
+    },
+    "correct_answer": "A",
+    "correct_text": "Lembar storyboard antarmuka"
+  },
+  {
+    "id": 12513,
+    "text": "Apa artefak pemodelan alur dialog antarmuka?",
+    "options": {
+      "A": "Kamus data relasional",
+      "B": "Diagram transisi status",
+      "C": "Pohon keputusan logika"
+    },
+    "correct_answer": "B",
+    "correct_text": "Diagram transisi status"
+  },
+  {
+    "id": 12514,
+    "text": "Apa dokumen standarisasi visual antarmuka pengguna?",
+    "options": {
+      "A": "Dokumen kamus metadata",
+      "B": "Skrip pengujian beban",
+      "C": "Panduan gaya desain"
+    },
+    "correct_answer": "C",
+    "correct_text": "Panduan gaya desain"
+  },
+  {
+    "id": 12515,
+    "text": "Komponen visual apa menampung isian pengguna?",
+    "options": {
+      "A": "Rancangan formulir masukan",
+      "B": "Format laporan rekapitulasi",
+      "C": "Diagram alir dokumen"
+    },
+    "correct_answer": "A",
+    "correct_text": "Rancangan formulir masukan"
+  },
+  {
+    "id": 12516,
+    "text": "Dokumen apa merangkum pengujian kemudahan interaksi?",
+    "options": {
+      "A": "Spesifikasi skema konseptual",
+      "B": "Matriks evaluasi kegunaan",
+      "C": "Bagan hirarki modul"
+    },
+    "correct_answer": "B",
+    "correct_text": "Matriks evaluasi kegunaan"
+  },
+  {
+    "id": 12517,
+    "text": "Visualisasi jalur kritis pada timeline berbentuk apa?",
+    "options": {
+      "A": "Lingkaran proses data",
+      "B": "Tabel relasi entitas",
+      "C": "Diagram bar diarsir"
+    },
+    "correct_answer": "C",
+    "correct_text": "Diagram bar diarsir"
+  },
+  {
+    "id": 12518,
+    "text": "Bagan visual penentu jadwal mulai selesai proyek?",
+    "options": {
+      "A": "Diagram alir data",
+      "B": "Diagram Gantt Chart",
+      "C": "Kamus data sistem"
+    },
+    "correct_answer": "B",
+    "correct_text": "Diagram Gantt Chart"
+  },
+  {
+    "id": 12519,
+    "text": "Apa hasil perhitungan durasi berbobot PERT?",
+    "options": {
+      "A": "Estimasi waktu tertimbang",
+      "B": "Varians indeks jadwal",
+      "C": "Total cadangan anggaran"
+    },
+    "correct_answer": "A",
+    "correct_text": "Estimasi waktu tertimbang"
+  },
+  {
+    "id": 12520,
+    "text": "Model visual apa menggambarkan dependensi pekerjaan?",
+    "options": {
+      "A": "Struktur rincian kerja",
+      "B": "Bagan balok jadwal",
+      "C": "Diagram jaringan aktivitas"
+    },
+    "correct_answer": "C",
+    "correct_text": "Diagram jaringan aktivitas"
+  },
+  {
+    "id": 12521,
+    "text": "Metrik apa mengukur toleransi kelonggaran keterlambatan?",
+    "options": {
+      "A": "Nilai tenggang waktu",
+      "B": "Durasi lintasan kritis",
+      "C": "Indeks kinerja jadwal"
+    },
+    "correct_answer": "A",
+    "correct_text": "Nilai tenggang waktu"
+  },
+  {
+    "id": 12522,
+    "text": "Apa artefak pemetaan hubungan proses data?",
+    "options": {
+      "A": "Bagan kamus data",
+      "B": "Matriks interaksi CRUD",
+      "C": "Diagram transisi status"
+    },
+    "correct_answer": "B",
+    "correct_text": "Matriks interaksi CRUD"
+  },
+  {
+    "id": 12523,
+    "text": "Artefak apa merinci kombinasi kondisi aksi?",
+    "options": {
+      "A": "Narasi bahasa terstruktur",
+      "B": "Diagram alir dokumen",
+      "C": "Tabel keputusan logika"
+    },
+    "correct_answer": "C",
+    "correct_text": "Tabel keputusan logika"
+  },
+  {
+    "id": 12524,
+    "text": "Diagram apa memodelkan hierarki pemanggilan komponen?",
+    "options": {
+      "A": "Diagram transisi status",
+      "B": "Matriks keterlacakan fungsi",
+      "C": "Bagan struktur modul"
+    },
+    "correct_answer": "C",
+    "correct_text": "Bagan struktur modul"
+  },
+  {
+    "id": 12525,
+    "text": "Hubungan data mahasiswa meminjam buku perpustakaan bertipe?",
+    "options": {
+      "A": "Satu ke satu",
+      "B": "Banyak ke banyak",
+      "C": "Satu ke banyak"
+    },
+    "correct_answer": "B",
+    "correct_text": "Banyak ke banyak"
+  },
+  {
+    "id": 12526,
+    "text": "Apa hasil dekomposisi fungsional proses level-1?",
+    "options": {
+      "A": "Diagram konteks sistem",
+      "B": "Kamus data konseptual",
+      "C": "Diagram alir tingkat-2"
+    },
+    "correct_answer": "C",
+    "correct_text": "Diagram alir tingkat-2"
+  },
+  {
+    "id": 12527,
+    "text": "Berkas apa merangkum cetak biru rancangan aplikasi?",
+    "options": {
+      "A": "Dokumen arsitektur sistem",
+      "B": "Dokumen spesifikasi kebutuhan",
+      "C": "Laporan studi kelayakan"
+    },
+    "correct_answer": "A",
+    "correct_text": "Dokumen arsitektur sistem"
+  },
+  {
+    "id": 12528,
+    "text": "Artefak apa dihasilkan sistem otomasi perkantoran?",
+    "options": {
+      "A": "Diagram transisi status",
+      "B": "Memo korespondensi digital",
+      "C": "Skrip pengujian beban"
+    },
+    "correct_answer": "B",
+    "correct_text": "Memo korespondensi digital"
+  },
+  {
+    "id": 12529,
+    "text": "Bagan apa memetakan atribut dan metode perangkat?",
+    "options": {
+      "A": "Model relasi entitas",
+      "B": "Diagram alir data",
+      "C": "Diagram kelas objek"
+    },
+    "correct_answer": "C",
+    "correct_text": "Diagram kelas objek"
+  },
+  {
+    "id": 12530,
+    "text": "Rancangan apa memetakan entitas bisnis tingkat tinggi?",
+    "options": {
+      "A": "Model data konseptual",
+      "B": "Skema fisik tabel",
+      "C": "Kamus data terpusat"
+    },
+    "correct_answer": "A",
+    "correct_text": "Model data konseptual"
+  },
+  {
+    "id": 12531,
+    "text": "Komponen apa menyimpan logika penalaran pakar?",
+    "options": {
+      "A": "Repositori kode sumber",
+      "B": "Basis aturan inferensi",
+      "C": "Gudang data terdistribusi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Basis aturan inferensi"
+  },
+  {
+    "id": 12532,
+    "text": "Berkas apa memuat strategi verifikasi perangkat?",
+    "options": {
+      "A": "Laporan kelayakan proyek",
+      "B": "Dokumen rencana pengujian",
+      "C": "Diagram transisi status"
+    },
+    "correct_answer": "B",
+    "correct_text": "Dokumen rencana pengujian"
+  },
+  {
+    "id": 12533,
+    "text": "Berkas apa merekam riwayat perbaikan aplikasi?",
+    "options": {
+      "A": "Matriks alokasi sumber",
+      "B": "Spesifikasi kebutuhan perangkat",
+      "C": "Log pemeliharaan sistem"
+    },
+    "correct_answer": "C",
+    "correct_text": "Log pemeliharaan sistem"
+  },
+  {
+    "id": 12534,
+    "text": "Hasil puncak apa dicapai pendekatan prototipe evolusioner?",
+    "options": {
+      "A": "Sistem operasional akhir",
+      "B": "Rancangan purwarupa buang",
+      "C": "Laporan studi kelayakan"
+    },
+    "correct_answer": "A",
+    "correct_text": "Sistem operasional akhir"
+  },
+  {
+    "id": 12535,
+    "text": "Dokumen apa mencatat dialog kebutuhan pemangku?",
+    "options": {
+      "A": "Kamus data terpadu",
+      "B": "Transkrip wawancara pengguna",
+      "C": "Matriks keterlacakan kebutuhan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Transkrip wawancara pengguna"
+  },
+  {
+    "id": 12536,
+    "text": "Dokumen apa memuat petunjuk pengoperasian perangkat?",
+    "options": {
+      "A": "Rencana mitigasi risiko",
+      "B": "Laporan audit kode",
+      "C": "Buku panduan pengguna"
+    },
+    "correct_answer": "C",
+    "correct_text": "Buku panduan pengguna"
+  },
+  {
+    "id": 12537,
+    "text": "Coretan fisik apa menguji tata letak antarmuka?",
+    "options": {
+      "A": "Sketsa purwarupa kertas",
+      "B": "Diagram relasi entitas",
+      "C": "Skrip basis data"
+    },
+    "correct_answer": "A",
+    "correct_text": "Sketsa purwarupa kertas"
+  },
+  {
+    "id": 12538,
+    "text": "Artefak apa menetapkan pedoman tipografi antarmuka?",
+    "options": {
+      "A": "Diagram transisi status",
+      "B": "Panduan gaya huruf",
+      "C": "Spesifikasi arsitektur modul"
+    },
+    "correct_answer": "B",
+    "correct_text": "Panduan gaya huruf"
+  },
+  {
+    "id": 12539,
+    "text": "Diagram apa memetakan pohon navigasi aplikasi?",
+    "options": {
+      "A": "Struktur tabel relasional",
+      "B": "Diagram aliran data",
+      "C": "Bagan hierarki menu"
+    },
+    "correct_answer": "C",
+    "correct_text": "Bagan hierarki menu"
+  },
+  {
+    "id": 12540,
+    "text": "Bagan apa mengatur posisi isian antarmuka?",
+    "options": {
+      "A": "Tata letak formulir",
+      "B": "Diagram konteks sistem",
+      "C": "Kamus elemen data"
+    },
+    "correct_answer": "A",
+    "correct_text": "Tata letak formulir"
+  },
+  {
+    "id": 12541,
+    "text": "Dokumen apa menghimpun umpan balik pemakai?",
+    "options": {
+      "A": "Matriks risiko proyek",
+      "B": "Diagram paket modul",
+      "C": "Lembar evaluasi pengguna"
+    },
+    "correct_answer": "C",
+    "correct_text": "Lembar evaluasi pengguna"
+  },
+  {
+    "id": 12542,
+    "text": "Patokan resmi apa mengontrol linimasa proyek?",
+    "options": {
+      "A": "Jadwal acuan dasar",
+      "B": "Laporan status berkala",
+      "C": "Struktur perincian kerja"
+    },
+    "correct_answer": "A",
+    "correct_text": "Jadwal acuan dasar"
+  },
+  {
+    "id": 12543,
+    "text": "Tabel apa merinci relasi prasyarat aktivitas?",
+    "options": {
+      "A": "Bagan aliran data",
+      "B": "Matriks pendahulu kegiatan",
+      "C": "Spesifikasi arsitektur teknis"
+    },
+    "correct_answer": "B",
+    "correct_text": "Matriks pendahulu kegiatan"
+  },
+  {
+    "id": 12544,
+    "text": "Luaran apa memuat estimasi waktu PERT?",
+    "options": {
+      "A": "Dokumen arsitektur perangkat",
+      "B": "Diagram transisi status",
+      "C": "Tabel durasi probabilitas"
+    },
+    "correct_answer": "C",
+    "correct_text": "Tabel durasi probabilitas"
+  },
+  {
+    "id": 12545,
+    "text": "Bagan pemantau urutan ketergantungan kegiatan proyek?",
+    "options": {
+      "A": "Diagram evaluasi PERT",
+      "B": "Diagram relasi data",
+      "C": "Kamus data sistem"
+    },
+    "correct_answer": "A",
+    "correct_text": "Diagram evaluasi PERT"
+  },
+  {
+    "id": 12546,
+    "text": "Dokumen apa merangkum capaian linimasa rutin?",
+    "options": {
+      "A": "Katalog basis data",
+      "B": "Diagram kasus penggunaan",
+      "C": "Laporan status berkala"
+    },
+    "correct_answer": "C",
+    "correct_text": "Laporan status berkala"
+  },
+  {
+    "id": 12547,
+    "text": "Artefak apa menjabarkan logika alur komputasi?",
+    "options": {
+      "A": "Matriks risiko proyek",
+      "B": "Dokumen spesifikasi proses",
+      "C": "Daftar repositori kode"
+    },
+    "correct_answer": "B",
+    "correct_text": "Dokumen spesifikasi proses"
+  },
+  {
+    "id": 12548,
+    "text": "Format apa memodelkan kombinasi kondisi kaidah?",
+    "options": {
+      "A": "Diagram konteks sistem",
+      "B": "Model alur data",
+      "C": "Tabel matriks keputusan"
+    },
+    "correct_answer": "C",
+    "correct_text": "Tabel matriks keputusan"
+  },
+  {
+    "id": 12549,
+    "text": "Bagan hierarki apa memetakan konsekuensi pilihan?",
+    "options": {
+      "A": "Diagram pohon keputusan",
+      "B": "Skema basis data",
+      "C": "Kamus elemen data"
+    },
+    "correct_answer": "A",
+    "correct_text": "Diagram pohon keputusan"
+  },
+  {
+    "id": 12550,
+    "text": "Artefak apa memetakan atribut kunci entitas?",
+    "options": {
+      "A": "Dokumen arsitektur perangkat",
+      "B": "Skema tabel relasional",
+      "C": "Laporan studi kelayakan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Skema tabel relasional"
+  },
+  {
+    "id": 12551,
+    "text": "Dokumen apa mendefinisikan struktur elemen informasi?",
+    "options": {
+      "A": "Rencana uji integrasi",
+      "B": "Diagram alir data",
+      "C": "Kamus data sistem"
+    },
+    "correct_answer": "C",
+    "correct_text": "Kamus data sistem"
+  },
+  {
+    "id": 12552,
+    "text": "Apa artefak hasil generator diagram kelas?",
+    "options": {
+      "A": "Kerangka kode program",
+      "B": "Kamus data terstruktur",
+      "C": "Diagram transisi status"
+    },
+    "correct_answer": "A",
+    "correct_text": "Kerangka kode program"
+  },
+  {
+    "id": 12553,
+    "text": "Artefak entitas bisnis apa dihasilkan PowerDesigner?",
+    "options": {
+      "A": "Spesifikasi kebutuhan perangkat",
+      "B": "Conceptual Data Model",
+      "C": "Matriks keterlacakan kebutuhan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Conceptual Data Model"
+  },
+  {
+    "id": 12554,
+    "text": "Rancangan arsitektur apa dibuat CA Erwin?",
+    "options": {
+      "A": "Diagram transisi status",
+      "B": "Pohon keputusan logika",
+      "C": "Model basis data"
+    },
+    "correct_answer": "C",
+    "correct_text": "Model basis data"
+  },
+  {
+    "id": 12555,
+    "text": "Apa luaran analitik perangkat lunak Weka?",
+    "options": {
+      "A": "Pola data tersembunyi",
+      "B": "Skema relasi tabel",
+      "C": "Diagram konteks sistem"
+    },
+    "correct_answer": "A",
+    "correct_text": "Pola data tersembunyi"
+  },
+  {
+    "id": 12556,
+    "text": "Apa artefak keluaran proses konsultasi pakar?",
+    "options": {
+      "A": "Dokumen kamus data",
+      "B": "Spesifikasi kebutuhan sistem",
+      "C": "Diagnosis inferensi solusi"
+    },
+    "correct_answer": "C",
+    "correct_text": "Diagnosis inferensi solusi"
+  },
+  {
+    "id": 12557,
+    "text": "Artefak apa dirilis pada inkremen pertama?",
+    "options": {
+      "A": "Produk perangkat inti",
+      "B": "Dokumen arsitektur lengkap",
+      "C": "Sistem operasional penuh"
+    },
+    "correct_answer": "A",
+    "correct_text": "Produk perangkat inti"
+  },
+  {
+    "id": 12558,
+    "text": "Luaran apa dihasilkan metode throwaway prototype?",
+    "options": {
+      "A": "Sistem siap rilis",
+      "B": "Spesifikasi kebutuhan tervalidasi",
+      "C": "Program aplikasi operasional"
+    },
+    "correct_answer": "B",
+    "correct_text": "Spesifikasi kebutuhan tervalidasi"
+  },
+  {
+    "id": 12559,
+    "text": "Notasi arsitektur apa digunakan metodologi RUP?",
+    "options": {
+      "A": "Structured Query Language",
+      "B": "Unified Modeling Language",
+      "C": "Hypertext Markup Language"
+    },
+    "correct_answer": "B",
+    "correct_text": "Unified Modeling Language"
+  },
+  {
+    "id": 12560,
+    "text": "Artefak apa diutamakan dalam metodologi XP?",
+    "options": {
+      "A": "Kode program operasional",
+      "B": "Dokumen rancangan komprehensif",
+      "C": "Desain arsitektur formal"
+    },
+    "correct_answer": "A",
+    "correct_text": "Kode program operasional"
+  },
+  {
+    "id": 12561,
+    "text": "Artefak apa disepakati pengguna model RAD?",
+    "options": {
+      "A": "Kamus data relasional",
+      "B": "Diagram transisi status",
+      "C": "Prototipe representasi proses"
+    },
+    "correct_answer": "C",
+    "correct_text": "Prototipe representasi proses"
+  },
+  {
+    "id": 12562,
+    "text": "Berapa batasan panjang maksimal baris teks?",
+    "options": {
+      "A": "Enam puluh karakter",
+      "B": "Dua ratus karakter",
+      "C": "Dua puluh karakter"
+    },
+    "correct_answer": "A",
+    "correct_text": "Enam puluh karakter"
+  },
+  {
+    "id": 12563,
+    "text": "Tahap awal perancangan mockup antarmuka biasanya menggunakan?",
+    "options": {
+      "A": "Bahasa pemrograman mesin",
+      "B": "Sketsa gambar visual",
+      "C": "Kabel jaringan komunikasi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Sketsa gambar visual"
+  },
+  {
+    "id": 12564,
+    "text": "Berapa batas maksimal variasi tipografi antarmuka?",
+    "options": {
+      "A": "Tujuh jenis font",
+      "B": "Lima jenis font",
+      "C": "Tiga jenis font"
+    },
+    "correct_answer": "C",
+    "correct_text": "Tiga jenis font"
+  },
+  {
+    "id": 12565,
+    "text": "Aturan Murch melarang teks menggunakan nuansa?",
+    "options": {
+      "A": "Warna merah terang",
+      "B": "Warna biru murni",
+      "C": "Warna hijau gelap"
+    },
+    "correct_answer": "B",
+    "correct_text": "Warna biru murni"
+  },
+  {
+    "id": 12566,
+    "text": "Prototipe visual antarmuka modul aplikasi disebut?",
+    "options": {
+      "A": "Kamus data modul",
+      "B": "Tabel basis data",
+      "C": "Rancangan mockup sistem"
+    },
+    "correct_answer": "C",
+    "correct_text": "Rancangan mockup sistem"
+  },
+  {
+    "id": 12567,
+    "text": "Apa artefak visual pemodelan ketergantungan aktivitas?",
+    "options": {
+      "A": "Diagram jaringan kerja",
+      "B": "Diagram relasi entitas",
+      "C": "Diagram dekomposisi fungsi"
+    },
+    "correct_answer": "A",
+    "correct_text": "Diagram jaringan kerja"
+  },
+  {
+    "id": 12568,
+    "text": "Apa representasi simpul pada diagram jaringan?",
+    "options": {
+      "A": "Estimasi durasi tugas",
+      "B": "Titik kejadian peristiwa",
+      "C": "Alokasi sumber daya"
+    },
+    "correct_answer": "B",
+    "correct_text": "Titik kejadian peristiwa"
+  },
+  {
+    "id": 12569,
+    "text": "Apa elemen informasi garis diagram jaringan?",
+    "options": {
+      "A": "Nomor urut simpul",
+      "B": "Total batas anggaran",
+      "C": "Nama aktivitas durasi"
+    },
+    "correct_answer": "C",
+    "correct_text": "Nama aktivitas durasi"
+  },
+  {
+    "id": 12570,
+    "text": "Apa hasil komputasi tabel jalur kritis?",
+    "options": {
+      "A": "Total durasi terpanjang",
+      "B": "Estimasi biaya terkecil",
+      "C": "Jumlah pekerja optimal"
+    },
+    "correct_answer": "A",
+    "correct_text": "Total durasi terpanjang"
+  },
+  {
+    "id": 12571,
+    "text": "Apa artefak rincian tugas survei investigasi?",
+    "options": {
+      "A": "Penyusunan kamus data",
+      "B": "Pengkodean basis data",
+      "C": "Subkegiatan pengamatan wawancara"
+    },
+    "correct_answer": "C",
+    "correct_text": "Subkegiatan pengamatan wawancara"
+  },
+  {
+    "id": 12572,
+    "text": "Dokumen apa merinci spesifikasi tipe elemen?",
+    "options": {
+      "A": "Berkas kamus data",
+      "B": "Diagram relasi entitas",
+      "C": "Model relasional tabel"
+    },
+    "correct_answer": "A",
+    "correct_text": "Berkas kamus data"
+  },
+  {
+    "id": 12573,
+    "text": "Artefak skema apa dihasilkan transformasi ERD?",
+    "options": {
+      "A": "Data Flow Diagram",
+      "B": "Logical Data Model",
+      "C": "State Transition Diagram"
+    },
+    "correct_answer": "B",
+    "correct_text": "Logical Data Model"
+  },
+  {
+    "id": 12574,
+    "text": "Apa artefak penghubung relasi antar entitas?",
+    "options": {
+      "A": "Atribut kunci primer",
+      "B": "Atribut kunci asing",
+      "C": "Atribut deskriptif komposit"
+    },
+    "correct_answer": "B",
+    "correct_text": "Atribut kunci asing"
+  },
+  {
+    "id": 12575,
+    "text": "Rancangan teknis penyimpanan tabel turunan ERD?",
+    "options": {
+      "A": "Conceptual Data Model",
+      "B": "Logical Data Model",
+      "C": "Physical Data Model"
+    },
+    "correct_answer": "C",
+    "correct_text": "Physical Data Model"
+  },
+  {
+    "id": 12576,
+    "text": "Apa diagram hasil pemecahan proses utama?",
+    "options": {
+      "A": "DFD level nol",
+      "B": "Diagram konteks sistem",
+      "C": "DFD level satu"
+    },
+    "correct_answer": "C",
+    "correct_text": "DFD level satu"
+  },
+  {
+    "id": 12627,
+    "text": "Perekaman data pembayaran belanja harian memakai?",
+    "options": {
+      "A": "Sistem transaksi TPS",
+      "B": "Sistem analitik DSS",
+      "C": "Sistem eksekutif EIS"
+    },
+    "correct_answer": "A",
+    "correct_text": "Sistem transaksi TPS"
+  },
+  {
+    "id": 12628,
+    "text": "Penilaian kelayakan kredit nasabah perbankan memakai?",
+    "options": {
+      "A": "Sistem pemroses transaksi",
+      "B": "Sistem penunjang keputusan",
+      "C": "Sistem otomasi perkantoran"
+    },
+    "correct_answer": "B",
+    "correct_text": "Sistem penunjang keputusan"
+  },
+  {
+    "id": 12629,
+    "text": "Pimpinan puncak memantau kinerja penjualan memakai?",
+    "options": {
+      "A": "Sistem otomasi perkantoran",
+      "B": "Sistem pemroses transaksi",
+      "C": "Sistem informasi eksekutif"
+    },
+    "correct_answer": "C",
+    "correct_text": "Sistem informasi eksekutif"
+  },
+  {
+    "id": 12630,
+    "text": "Pengelolaan terpadu nilai mahasiswa kampus menggunakan?",
+    "options": {
+      "A": "Sistem informasi akademik",
+      "B": "Sistem pakar diagnostik",
+      "C": "Sistem penunjang keputusan"
+    },
+    "correct_answer": "A",
+    "correct_text": "Sistem informasi akademik"
+  },
+  {
+    "id": 12631,
+    "text": "Perusahaan ekspedisi memantau status kiriman memakai?",
+    "options": {
+      "A": "Sistem otomasi perkantoran",
+      "B": "Sistem pemroses transaksi",
+      "C": "Sistem pelacakan terpadu"
+    },
+    "correct_answer": "C",
+    "correct_text": "Sistem pelacakan terpadu"
+  },
+  {
+    "id": 12632,
+    "text": "Kapan metode Waterfall tepat untuk proyek?",
+    "options": {
+      "A": "Kebutuhan berubah ubah",
+      "B": "Kebutuhan sudah pasti",
+      "C": "Waktu sangat mendesak"
+    },
+    "correct_answer": "B",
+    "correct_text": "Kebutuhan sudah pasti"
+  },
+  {
+    "id": 12633,
+    "text": "Kapan metode Prototyping sebaiknya dipilih tim?",
+    "options": {
+      "A": "Spesifikasi sistem pasti",
+      "B": "Dokumen rancangan lengkap",
+      "C": "Pengguna bingung kebutuhan"
+    },
+    "correct_answer": "C",
+    "correct_text": "Pengguna bingung kebutuhan"
+  },
+  {
+    "id": 12634,
+    "text": "Aplikasi darurat kilat membutuhkan metode pengembangan?",
+    "options": {
+      "A": "Model sekuensial linear",
+      "B": "Rapid Application Development",
+      "C": "Model formal bertahap"
+    },
+    "correct_answer": "B",
+    "correct_text": "Rapid Application Development"
+  },
+  {
+    "id": 12635,
+    "text": "Pembangunan sistem perbankan berisiko tinggi memakai?",
+    "options": {
+      "A": "Tahapan terencana ketat",
+      "B": "Pengembangan tanpa aturan",
+      "C": "Eksperimen coba coba"
+    },
+    "correct_answer": "A",
+    "correct_text": "Tahapan terencana ketat"
+  },
+  {
+    "id": 12636,
+    "text": "Sebelum pengadaan server baru, tim melakukan?",
+    "options": {
+      "A": "Pengujian penerimaan akhir",
+      "B": "Pelatihan pengguna operasional",
+      "C": "Analisis kelayakan teknis"
+    },
+    "correct_answer": "C",
+    "correct_text": "Analisis kelayakan teknis"
+  },
+  {
+    "id": 12637,
+    "text": "Fitur konfirmasi pembayaran daring sebaiknya menggunakan?",
+    "options": {
+      "A": "Warna abu gelap",
+      "B": "Warna mencolok kontras",
+      "C": "Warna latar belakang"
+    },
+    "correct_answer": "B",
+    "correct_text": "Warna mencolok kontras"
+  },
+  {
+    "id": 12638,
+    "text": "Bagaimana susunan menu portal akademik mahasiswa?",
+    "options": {
+      "A": "Struktur navigasi rapi",
+      "B": "Tumpukan menu acak",
+      "C": "Tersembunyi tanpa nama"
+    },
+    "correct_answer": "A",
+    "correct_text": "Struktur navigasi rapi"
+  },
+  {
+    "id": 12639,
+    "text": "Pemberitahuan kegagalan transaksi sistem sebaiknya memakai?",
+    "options": {
+      "A": "Huruf sangat kecil",
+      "B": "Warna kontras merah",
+      "C": "Warna teks transparan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Warna kontras merah"
+  },
+  {
+    "id": 12640,
+    "text": "Formulir pendaftaran mahasiswa baru dirancang dengan?",
+    "options": {
+      "A": "Pertanyaan bertumpuk tumpuk",
+      "B": "Kolom tanpa label",
+      "C": "Urutan isian teratur"
+    },
+    "correct_answer": "C",
+    "correct_text": "Urutan isian teratur"
+  },
+  {
+    "id": 12641,
+    "text": "Aplikasi belanja daring menonjolkan promo melalui?",
+    "options": {
+      "A": "Spanduk visual utama",
+      "B": "Tulisan pojok tersembunyi",
+      "C": "Halaman tanpa gambar"
+    },
+    "correct_answer": "A",
+    "correct_text": "Spanduk visual utama"
+  },
+  {
+    "id": 12642,
+    "text": "Tahap implementasi sistem baru dimulai setelah?",
+    "options": {
+      "A": "Penutupan proyek tuntas",
+      "B": "Desain arsitektur selesai",
+      "C": "Masa garansi berakhir"
+    },
+    "correct_answer": "B",
+    "correct_text": "Desain arsitektur selesai"
+  },
+  {
+    "id": 12643,
+    "text": "Aktivitas pada lintasan kritis mengalami keterlambatan?",
+    "options": {
+      "A": "Waktu akhir stabil",
+      "B": "Durasi proyek menyusut",
+      "C": "Penyelesaian proyek tertunda"
+    },
+    "correct_answer": "C",
+    "correct_text": "Penyelesaian proyek tertunda"
+  },
+  {
+    "id": 12644,
+    "text": "Penentu umur proyek dari kombinasi jalur?",
+    "options": {
+      "A": "Lintasan berdurasi terpanjang",
+      "B": "Lintasan berdurasi terpendek",
+      "C": "Nilai waktu rata-rata"
+    },
+    "correct_answer": "A",
+    "correct_text": "Lintasan berdurasi terpanjang"
+  },
+  {
+    "id": 12645,
+    "text": "Kapan suatu pekerjaan penerus dapat dimulai?",
+    "options": {
+      "A": "Tugas paralel dibatalkan",
+      "B": "Lintasan kritis dihapus",
+      "C": "Tahap pendahulu selesai"
+    },
+    "correct_answer": "C",
+    "correct_text": "Tahap pendahulu selesai"
+  },
+  {
+    "id": 12646,
+    "text": "Tahapan pengujian sistem dapat dilaksanakan setelah?",
+    "options": {
+      "A": "Penulisan kode selesai",
+      "B": "Tahap pemeliharaan berakhir",
+      "C": "Penutupan proyek disetujui"
+    },
+    "correct_answer": "A",
+    "correct_text": "Penulisan kode selesai"
+  },
+  {
+    "id": 12647,
+    "text": "Pada diagram arus data, mahasiswa merupakan?",
+    "options": {
+      "A": "Proses pengolahan transaksi",
+      "B": "Entitas luar sistem",
+      "C": "Simpanan data arsip"
+    },
+    "correct_answer": "B",
+    "correct_text": "Entitas luar sistem"
+  },
+  {
+    "id": 12648,
+    "text": "Koleksi rekaman pustaka dimodelkan sebagai simbol?",
+    "options": {
+      "A": "Arus informasi berkas",
+      "B": "Entitas luar pemakai",
+      "C": "Penyimpanan data store"
+    },
+    "correct_answer": "C",
+    "correct_text": "Penyimpanan data store"
+  },
+  {
+    "id": 12649,
+    "text": "Karakteristik hubungan dosen wali membimbing kelas?",
+    "options": {
+      "A": "Kardinalitas satu banyak",
+      "B": "Kardinalitas satu satu",
+      "C": "Kardinalitas banyak banyak"
+    },
+    "correct_answer": "A",
+    "correct_text": "Kardinalitas satu banyak"
+  },
+  {
+    "id": 12650,
+    "text": "Spesifikasi panjang karakter atribut didefinisikan dalam?",
+    "options": {
+      "A": "Diagram konteks entitas",
+      "B": "Diagram alir proses",
+      "C": "Kamus data sistem"
+    },
+    "correct_answer": "C",
+    "correct_text": "Kamus data sistem"
+  },
+  {
+    "id": 12651,
+    "text": "Ruang lingkup makro aplikasi dimodelkan melalui?",
+    "options": {
+      "A": "Rincian algoritma program",
+      "B": "Diagram konteks utama",
+      "C": "Struktur internal database"
+    },
+    "correct_answer": "B",
+    "correct_text": "Diagram konteks utama"
+  },
+  {
+    "id": 12702,
+    "text": "Kasir kafe memproses struk pesanan memakai?",
+    "options": {
+      "A": "Sistem transaksi harian",
+      "B": "Sistem pendukung keputusan",
+      "C": "Sistem informasi eksekutif"
+    },
+    "correct_answer": "A",
+    "correct_text": "Sistem transaksi harian"
+  },
+  {
+    "id": 12703,
+    "text": "Analis bank mengevaluasi risiko kredit memakai?",
+    "options": {
+      "A": "Sistem pemrosesan transaksi",
+      "B": "Sistem pendukung keputusan",
+      "C": "Sistem otomasi perkantoran"
+    },
+    "correct_answer": "B",
+    "correct_text": "Sistem pendukung keputusan"
+  },
+  {
+    "id": 12704,
+    "text": "Direktur hotel memantau okupansi kamar memakai?",
+    "options": {
+      "A": "Sistem transaksi harian",
+      "B": "Sistem kerja kelompok",
+      "C": "Sistem informasi eksekutif"
+    },
+    "correct_answer": "C",
+    "correct_text": "Sistem informasi eksekutif"
+  },
+  {
+    "id": 12705,
+    "text": "Aplikasi apa menyelaraskan aliran distribusi produk?",
+    "options": {
+      "A": "Supply Chain Management",
+      "B": "Customer Relationship Management",
+      "C": "Enterprise Resource Planning"
+    },
+    "correct_answer": "A",
+    "correct_text": "Supply Chain Management"
+  },
+  {
+    "id": 12706,
+    "text": "Sekretaris perusahaan mengatur jadwal rapat menggunakan?",
+    "options": {
+      "A": "Sistem pendukung keputusan",
+      "B": "Sistem otomasi perkantoran",
+      "C": "Sistem informasi pemasaran"
+    },
+    "correct_answer": "B",
+    "correct_text": "Sistem otomasi perkantoran"
+  },
+  {
+    "id": 12707,
+    "text": "Kapan model sekuensial linier tepat dipilih?",
+    "options": {
+      "A": "Waktu sangat darurat",
+      "B": "Kebutuhan sering berubah",
+      "C": "Persyaratan terdefinisi pasti"
+    },
+    "correct_answer": "C",
+    "correct_text": "Persyaratan terdefinisi pasti"
+  },
+  {
+    "id": 12708,
+    "text": "Manajemen menguji keuntungan investasi proyek melalui?",
+    "options": {
+      "A": "Analisis kelayakan ekonomis",
+      "B": "Analisis kelayakan teknologi",
+      "C": "Analisis kelayakan operasional"
+    },
+    "correct_answer": "A",
+    "correct_text": "Analisis kelayakan ekonomis"
+  },
+  {
+    "id": 12709,
+    "text": "Pengguna belum jelas kebutuhan sistem sebaiknya?",
+    "options": {
+      "A": "Gunakan model waterfall",
+      "B": "Kembangkan purwarupa awal",
+      "C": "Langsung pengkodean program"
+    },
+    "correct_answer": "B",
+    "correct_text": "Kembangkan purwarupa awal"
+  },
+  {
+    "id": 12710,
+    "text": "Proyek berisiko teknis tinggi sebaiknya memakai?",
+    "options": {
+      "A": "Model sekuensial linier",
+      "B": "Model inkremental sederhana",
+      "C": "Model spiral iteratif"
+    },
+    "correct_answer": "C",
+    "correct_text": "Model spiral iteratif"
+  },
+  {
+    "id": 12711,
+    "text": "Kesiapan staf memakai aplikasi baru dinilai?",
+    "options": {
+      "A": "Aspek kelayakan operasional",
+      "B": "Aspek kelayakan teknologi",
+      "C": "Aspek kelayakan finansial"
+    },
+    "correct_answer": "A",
+    "correct_text": "Aspek kelayakan operasional"
+  },
+  {
+    "id": 12712,
+    "text": "Desain antarmuka kurir ekspedisi wajib memprioritaskan?",
+    "options": {
+      "A": "Animasi grafik kompleks",
+      "B": "Kejelasan navigasi cepat",
+      "C": "Struktur menu bertingkat"
+    },
+    "correct_answer": "B",
+    "correct_text": "Kejelasan navigasi cepat"
+  },
+  {
+    "id": 12713,
+    "text": "Notifikasi transfer gagal sebaiknya disajikan secara?",
+    "options": {
+      "A": "Pesan teks tersembunyi",
+      "B": "Kode angka teknis",
+      "C": "Bahasa santun informatif"
+    },
+    "correct_answer": "C",
+    "correct_text": "Bahasa santun informatif"
+  },
+  {
+    "id": 12714,
+    "text": "Keseragaman tata letak elemen antarmuka disebut?",
+    "options": {
+      "A": "Prinsip konsistensi desain",
+      "B": "Prinsip fleksibilitas interaksi",
+      "C": "Prinsip pemulihan kesalahan"
+    },
+    "correct_answer": "A",
+    "correct_text": "Prinsip konsistensi desain"
+  },
+  {
+    "id": 12715,
+    "text": "Formulir registrasi pasien rawat jalan sebaiknya?",
+    "options": {
+      "A": "Rumit dan berlapis",
+      "B": "Sederhana dan terstruktur",
+      "C": "Acak tanpa panduan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Sederhana dan terstruktur"
+  },
+  {
+    "id": 12716,
+    "text": "Uji coba purwarupa antarmuka klinis melibatkan?",
+    "options": {
+      "A": "Teknisi perangkat keras",
+      "B": "Perancang basis data",
+      "C": "Pengguna tenaga medis"
+    },
+    "correct_answer": "C",
+    "correct_text": "Pengguna tenaga medis"
+  },
+  {
+    "id": 12717,
+    "text": "Penguraian proyek sistem menjadi komponen kecil?",
+    "options": {
+      "A": "Work Breakdown Structure",
+      "B": "Critical Path Method",
+      "C": "Diagram panah aktivitas"
+    },
+    "correct_answer": "A",
+    "correct_text": "Work Breakdown Structure"
+  },
+  {
+    "id": 12718,
+    "text": "Efek kemunduran jadwal kegiatan jalur kritis?",
+    "options": {
+      "A": "Biaya proyek berkurang",
+      "B": "Target penyelesaian tertunda",
+      "C": "Durasi proyek berkurang"
+    },
+    "correct_answer": "B",
+    "correct_text": "Target penyelesaian tertunda"
+  },
+  {
+    "id": 12719,
+    "text": "Pelatihan pengguna akhir dapat dimulai jika?",
+    "options": {
+      "A": "Perancangan arsitektur dimulai",
+      "B": "Pengkodean modul berjalan",
+      "C": "Sistem siap pakai"
+    },
+    "correct_answer": "C",
+    "correct_text": "Sistem siap pakai"
+  },
+  {
+    "id": 12720,
+    "text": "Batas akhir proyek ditentukan oleh lintasan?",
+    "options": {
+      "A": "Jalur waktu terpanjang",
+      "B": "Jalur waktu terpendek",
+      "C": "Jalur selisih waktu"
+    },
+    "correct_answer": "A",
+    "correct_text": "Jalur waktu terpanjang"
+  },
+  {
+    "id": 12721,
+    "text": "Alat visualisasi balok jadwal tugas adalah?",
+    "options": {
+      "A": "Diagram panah aktivitas",
+      "B": "Diagram Gantt proyek",
+      "C": "Diagram alir data"
+    },
+    "correct_answer": "B",
+    "correct_text": "Diagram Gantt proyek"
+  },
+  {
+    "id": 12722,
+    "text": "Pelanggan pada DFD rental mobil merupakan?",
+    "options": {
+      "A": "Transformasi proses internal",
+      "B": "Penyimpanan data terpusat",
+      "C": "Entitas eksternal sistem"
+    },
+    "correct_answer": "C",
+    "correct_text": "Entitas eksternal sistem"
+  },
+  {
+    "id": 12723,
+    "text": "Dokter tunggal merawat berbagai pasien merupakan?",
+    "options": {
+      "A": "Kardinalitas satu banyak",
+      "B": "Kardinalitas satu satu",
+      "C": "Kardinalitas banyak banyak"
+    },
+    "correct_answer": "A",
+    "correct_text": "Kardinalitas satu banyak"
+  },
+  {
+    "id": 12724,
+    "text": "Komponen pengarsipan berkas sistem perpustakaan adalah?",
+    "options": {
+      "A": "Notasi entitas luar",
+      "B": "Simbol data store",
+      "C": "Panah arus informasi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Simbol data store"
+  },
+  {
+    "id": 12725,
+    "text": "Aturan panjang karakter kode barang dicatat?",
+    "options": {
+      "A": "Diagram konteks sistem",
+      "B": "Bagan alir logika",
+      "C": "Dokumen kamus data"
+    },
+    "correct_answer": "C",
+    "correct_text": "Dokumen kamus data"
+  },
+  {
+    "id": 12726,
+    "text": "Visualisasi pemetaan batas lingkup sistem perhotelan?",
+    "options": {
+      "A": "Diagram kelas rinci",
+      "B": "Tabel matriks relasi",
+      "C": "Diagram konteks utama"
+    },
+    "correct_answer": "C",
+    "correct_text": "Diagram konteks utama"
+  },
+  {
+    "id": 12727,
+    "text": "Gerai obat mencatat penjualan harian memakai?",
+    "options": {
+      "A": "Sistem pemrosesan transaksi",
+      "B": "Sistem manajemen pengetahuan",
+      "C": "Sistem pakar diagnosis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Sistem pemrosesan transaksi"
+  },
+  {
+    "id": 12728,
+    "text": "Manajer hotel memproyeksikan okupansi kamar memakai?",
+    "options": {
+      "A": "Sistem informasi manajemen",
+      "B": "Sistem pendukung keputusan",
+      "C": "Sistem otomasi perkantoran"
+    },
+    "correct_answer": "B",
+    "correct_text": "Sistem pendukung keputusan"
+  },
+  {
+    "id": 12729,
+    "text": "Pimpinan bank memantau portofolio kredit melalui?",
+    "options": {
+      "A": "Sistem pemrosesan transaksi",
+      "B": "Sistem otomasi perkantoran",
+      "C": "Sistem informasi eksekutif"
+    },
+    "correct_answer": "C",
+    "correct_text": "Sistem informasi eksekutif"
+  },
+  {
+    "id": 12730,
+    "text": "Dokter mendiagnosis penyakit langka dibantu dengan?",
+    "options": {
+      "A": "Sistem pakar medis",
+      "B": "Sistem pemrosesan transaksi",
+      "C": "Sistem informasi manajemen"
+    },
+    "correct_answer": "A",
+    "correct_text": "Sistem pakar medis"
+  },
+  {
+    "id": 12731,
+    "text": "Maskapai penerbangan mengelola koordinasi kru memakai?",
+    "options": {
+      "A": "Sistem pemrosesan transaksi",
+      "B": "Sistem pakar diagnosis",
+      "C": "Sistem otomasi perkantoran"
+    },
+    "correct_answer": "C",
+    "correct_text": "Sistem otomasi perkantoran"
+  },
+  {
+    "id": 12732,
+    "text": "Kapan metodologi Waterfall tepat dipilih tim?",
+    "options": {
+      "A": "Kebutuhan dinamis berubah",
+      "B": "Kebutuhan terdefinisi pasti",
+      "C": "Arsitektur belum jelas"
+    },
+    "correct_answer": "B",
+    "correct_text": "Kebutuhan terdefinisi pasti"
+  },
+  {
+    "id": 12733,
+    "text": "Pengembang merilis pembaruan secara bertahap memakai?",
+    "options": {
+      "A": "Model sekuensial Waterfall",
+      "B": "Model adaptif Agile",
+      "C": "Metode terstruktur formal"
+    },
+    "correct_answer": "B",
+    "correct_text": "Model adaptif Agile"
+  },
+  {
+    "id": 12734,
+    "text": "Pengguna belum memahami kebutuhan sistem memakai?",
+    "options": {
+      "A": "Spesifikasi formal Waterfall",
+      "B": "Perancangan arsitektur statis",
+      "C": "Pendekatan pembuatan prototipe"
+    },
+    "correct_answer": "C",
+    "correct_text": "Pendekatan pembuatan prototipe"
+  },
+  {
+    "id": 12735,
+    "text": "Pemerintah membangun arsitektur keamanan rahasia memakai?",
+    "options": {
+      "A": "Tahapan terstruktur ketat",
+      "B": "Model eksplorasi bebas",
+      "C": "Siklus rilis kilat"
+    },
+    "correct_answer": "A",
+    "correct_text": "Tahapan terstruktur ketat"
+  },
+  {
+    "id": 12736,
+    "text": "Organisasi menguji kesiapan pengguna sistem memakai?",
+    "options": {
+      "A": "Analisis kelayakan teknis",
+      "B": "Analisis kelayakan ekonomi",
+      "C": "Analisis kelayakan operasional"
+    },
+    "correct_answer": "C",
+    "correct_text": "Analisis kelayakan operasional"
+  },
+  {
+    "id": 12737,
+    "text": "Antarmuka bank menampilkan peringatan saldo negatif?",
+    "options": {
+      "A": "Teks warna merah",
+      "B": "Teks warna abu",
+      "C": "Teks warna hijau"
+    },
+    "correct_answer": "A",
+    "correct_text": "Teks warna merah"
+  },
+  {
+    "id": 12738,
+    "text": "Formulir pendaftaran pasien rawat inap harus?",
+    "options": {
+      "A": "Memiliki kolom berantakan",
+      "B": "Memiliki urutan logis",
+      "C": "Tanpa label petunjuk"
+    },
+    "correct_answer": "B",
+    "correct_text": "Memiliki urutan logis"
+  },
+  {
+    "id": 12739,
+    "text": "Situs toko daring menampilkan pemberitahuan promo?",
+    "options": {
+      "A": "Catatan kaki bawah",
+      "B": "Sudut tersembunyi layar",
+      "C": "Spanduk visual utama"
+    },
+    "correct_answer": "C",
+    "correct_text": "Spanduk visual utama"
+  },
+  {
+    "id": 12740,
+    "text": "Penghapusan data master krusial sebaiknya memerlukan?",
+    "options": {
+      "A": "Dialog konfirmasi persetujuan",
+      "B": "Penghentian proses paksa",
+      "C": "Eksekusi langsung otomatis"
+    },
+    "correct_answer": "A",
+    "correct_text": "Dialog konfirmasi persetujuan"
+  },
+  {
+    "id": 12741,
+    "text": "Desain navigasi portal berita sebaiknya bersifat?",
+    "options": {
+      "A": "Berubah setiap halaman",
+      "B": "Konsisten dan terstruktur",
+      "C": "Acak tanpa pola"
+    },
+    "correct_answer": "B",
+    "correct_text": "Konsisten dan terstruktur"
+  },
+  {
+    "id": 12742,
+    "text": "Aktivitas pengujian sistem informasi dimulai setelah?",
+    "options": {
+      "A": "Penulisan kode selesai",
+      "B": "Peluncuran produk selesai",
+      "C": "Perencanaan proyek dimulai"
+    },
+    "correct_answer": "A",
+    "correct_text": "Penulisan kode selesai"
+  },
+  {
+    "id": 12743,
+    "text": "Penundaan pekerjaan lintasan kritis berakibat langsung?",
+    "options": {
+      "A": "Total durasi bertambah",
+      "B": "Waktu pengerjaan berkurang",
+      "C": "Jadwal proyek tetap"
+    },
+    "correct_answer": "A",
+    "correct_text": "Total durasi bertambah"
+  },
+  {
+    "id": 12744,
+    "text": "Waktu penyelesaian proyek ditentukan oleh durasi?",
+    "options": {
+      "A": "Lintasan paling pendek",
+      "B": "Lintasan paling panjang",
+      "C": "Rata rata lintasan"
+    },
+    "correct_answer": "B",
+    "correct_text": "Lintasan paling panjang"
+  },
+  {
+    "id": 12745,
+    "text": "Manajer proyek memantau linimasa aktivitas memakai?",
+    "options": {
+      "A": "Diagram relasi entitas",
+      "B": "Diagram alir data",
+      "C": "Grafik batang Gantt"
+    },
+    "correct_answer": "C",
+    "correct_text": "Grafik batang Gantt"
+  },
+  {
+    "id": 12746,
+    "text": "Pelatihan pengguna operasional dilaksanakan tepat sesudah?",
+    "options": {
+      "A": "Desain antarmuka dimulai",
+      "B": "Sistem selesai dikembangkan",
+      "C": "Proposal proyek disetujui"
+    },
+    "correct_answer": "B",
+    "correct_text": "Sistem selesai dikembangkan"
+  },
+  {
+    "id": 12747,
+    "text": "Pasien pemesan nomor antrean klinik merupakan?",
+    "options": {
+      "A": "Aliran data proses",
+      "B": "Wadah penyimpanan arsip",
+      "C": "Komponen entitas eksternal"
+    },
+    "correct_answer": "C",
+    "correct_text": "Komponen entitas eksternal"
+  },
+  {
+    "id": 12748,
+    "text": "Dokter tunggal menangani kumpulan pasien sekaligus?",
+    "options": {
+      "A": "Relasi satu banyak",
+      "B": "Relasi satu satu",
+      "C": "Relasi banyak banyak"
+    },
+    "correct_answer": "A",
+    "correct_text": "Relasi satu banyak"
+  },
+  {
+    "id": 12749,
+    "text": "Berkas riwayat resep medis tersimpan pada?",
+    "options": {
+      "A": "Simbol proses transformasi",
+      "B": "Simbol entitas luar",
+      "C": "Simbol penyimpanan data"
+    },
+    "correct_answer": "C",
+    "correct_text": "Simbol penyimpanan data"
+  },
+  {
+    "id": 12750,
+    "text": "Spesifikasi format struktur kolom identitas tercantum?",
+    "options": {
+      "A": "Diagram konteks konseptual",
+      "B": "Dokumen kamus data",
+      "C": "Matriks dekomposisi fungsi"
+    },
+    "correct_answer": "B",
+    "correct_text": "Dokumen kamus data"
+  },
+  {
+    "id": 12751,
+    "text": "Diagram konteks pemodelan berfungsi untuk memperlihatkan?",
+    "options": {
+      "A": "Rincian algoritma pemrosesan",
+      "B": "Struktur relasi tabel",
+      "C": "Batas lingkungan sistem"
+    },
+    "correct_answer": "C",
+    "correct_text": "Batas lingkungan sistem"
+  }
+]
